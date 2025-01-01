@@ -102,33 +102,52 @@
     <!-- DataTables JS -->
     <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/fixedheader/3.2.1/js/dataTables.fixedHeader.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/alvaro-prieto/colResizable/colResizable-1.6.min.js"></script>
     <script>
         $(document).ready(function () {
+            let cache = []; // Local cache for all data
+            let offset = 0;
+            const limit = 100; // Number of entries to fetch per request
+            let isLoading = false;
+            let allDataLoaded = false;
+            let table;
+
             const columnOrder = ['date', 'buyer', 'seller', 'target', 'technology_type', 'capacity', 'acquisition_price', 'stake_percentage', 'url', "entry_added", "entry_last_updated"];
 
-            function updateEntriesInfo(total) {
-                $('#entriesInfo').text(`Showing ${total} entries`);
+            function updateEntriesInfo() {
+                const shown = table ? table.rows({ filter: 'applied' }).data().length : 0;
+                const total = cache.length;
+                $('#entriesInfo').text(`Showing ${shown} out of ${total} entries`);
             }
 
-            function initializeDataTable(data) {
-                const table = $('#dataTable').DataTable({
-                    columns: columnOrder.map(col => {
-                        if (col === 'url') {
-                            return {
-                                title: col.replace(/_/g, ' ').toUpperCase(),
-                                data: col,
-                                render: (data, type) => type === 'display' ? `<a href="${data}" target="_blank">URL</a>` : data
-                            };
-                        } else {
-                            return {
-                                title: col.replace(/_/g, ' ').toUpperCase(),
-                                data: col,
-                                width: '150px'
-                            };
-                        }
-                    }),
-                    data: data,
-                    scrollY: 'calc(100vh - 120px)',
+            function calculateTableHeight() {
+                const windowHeight = $(window).height();
+                const headerHeight = $('h1').outerHeight(true); // Include margins
+                const availableHeight = windowHeight - headerHeight - 20; // Adjust for margins/padding
+                return availableHeight;
+            }
+
+            function initializeDataTable() {
+                const columns = columnOrder.map((col) => {
+                    if (col === 'url') {
+                        return {
+                            title: formatColumnTitle(col),
+                            data: col,
+                            render: (data, type) => type === 'display' ? `<a href="${escapeHtml(data)}" target="_blank">URL</a>` : data
+                        };
+                    } else {
+                        return {
+                            title: formatColumnTitle(col),
+                            data: col,
+                            width: '150px'
+                        };
+                    }
+                });
+
+                table = $('#dataTable').DataTable({
+                    columns: columns,
+                    data: cache, // Initialize with the full dataset
+                    scrollY: `${calculateTableHeight()}px`,
                     scrollX: true,
                     paging: false,
                     info: false,
@@ -140,31 +159,94 @@
                     fixedHeader: true,
                     deferRender: true
                 });
-                updateEntriesInfo(data.length);
+
+                table.columns.adjust().draw(false);
+                updateEntriesInfo();
             }
 
-            function loadCSVData() {
-                fetch('data.csv')
-                    .then(response => response.text())
-                    .then(csvText => {
-                        const rows = csvText.split('\n').filter(row => row.trim() !== '');
-                        const headers = rows[0].split(',');
-                        const data = rows.slice(1).map(row => {
-                            const values = row.split(',');
-                            return headers.reduce((obj, header, idx) => {
-                                obj[header.trim()] = values[idx]?.trim() || '';
-                                return obj;
-                            }, {});
+            async function loadInitialData() {
+                try {
+                    $('#loadingIndicator').show();
+
+                    const response = await fetch('data.csv');
+                    const csvText = await response.text();
+
+                    const rows = csvText.split('\n');
+                    const headers = rows[0].split(','); // Extract column headers
+                    const data = rows.slice(1).filter(row => row.trim() !== '').map(row => row.split(','));
+
+                    cache = data.map(row => {
+                        const entry = {};
+                        headers.forEach((header, index) => {
+                            entry[header.trim()] = row[index]?.trim();
                         });
-
-                        initializeDataTable(data);
-                    })
-                    .catch(error => {
-                        console.error('Error loading CSV:', error);
+                        return entry;
                     });
+
+                    initializeDataTable();
+                    $('#loadingIndicator').hide();
+                    updateEntriesInfo();
+                } catch (error) {
+                    console.error('Error loading data:', error);
+                    $('#loadingIndicator').hide();
+                }
             }
 
-            loadCSVData();
+            function loadMoreData() {
+                if (isLoading || allDataLoaded) return;
+                isLoading = true;
+
+                const dataToLoad = cache.slice(offset, offset + limit); // Load data from the cache
+                if (dataToLoad.length > 0) {
+                    table.rows.add(dataToLoad).draw(false);
+                    offset += dataToLoad.length;
+                }
+
+                if (offset >= cache.length) {
+                    allDataLoaded = true;
+                }
+
+                isLoading = false;
+                updateEntriesInfo();
+            }
+
+            function scrollHandler() {
+                const container = $(this);
+                const scrollTop = container.scrollTop();
+                const scrollHeight = container[0].scrollHeight;
+                const containerHeight = container.height();
+
+                if (!isLoading && !allDataLoaded && scrollTop + containerHeight >= scrollHeight - 10) {
+                    loadMoreData();
+                }
+            }
+
+            function escapeHtml(text) {
+                if (text == null) return '';
+                return text
+                    .toString()
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;')
+                    .replace(/'/g, '&#039;');
+            }
+
+            function formatColumnTitle(col) {
+                return col.replace(/_/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase());
+            }
+
+            $(window).on('resize', () => {
+                if (table) {
+                    const newHeight = `${calculateTableHeight()}px`;
+                    table.settings()[0].oScroll.sY = newHeight;
+                    $('.dataTables_scrollBody').css('max-height', newHeight);
+                    table.columns.adjust().draw(false);
+                }
+            });
+
+            loadInitialData();
+            $('.dataTables_scrollBody').on('scroll', scrollHandler);
         });
     </script>
 </body>
