@@ -31,6 +31,46 @@
             z-index: 1000;
         }
 
+        .summary-column {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        th.summary-column, td.summary-column {
+            width: 200px;
+            max-width: 200px;
+        }
+
+        td.details {
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        .details-content {
+            padding: 10px;
+        }
+
+        #dataTable tbody tr {
+            cursor: pointer;
+        }
+
+        .dataTables_scrollBody {
+            overflow: auto !important; /* Ensure only the table body scrolls */
+        }
+
+        .dataTables_wrapper .dataTables_scrollHead {
+            overflow: visible;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+        }
+
+        h1 a {
+            text-decoration: none; /* Remove underline */
+            color: inherit; /* Use the same color as the header text */
+        }
+
         #entriesInfo {
             margin: 10px;
             font-size: 14px;
@@ -64,51 +104,67 @@
     <script src="https://cdn.datatables.net/fixedheader/3.2.1/js/dataTables.fixedHeader.min.js"></script>
     <script>
         $(document).ready(function () {
-            const columnOrder = [
-                'date', 'buyer', 'seller', 'target', 'technology_type',
-                'capacity', 'acquisition_price', 'stake_percentage',
-                'url', 'entry_added', 'entry_last_updated'
-            ];
+            const columnOrder = ['date', 'buyer', 'seller', 'target', 'technology_type', 'capacity', 'acquisition_price', 'stake_percentage', 'url', "entry_added", "entry_last_updated"];
 
-            // Initialize DataTable
-            const table = $('#dataTable').DataTable({
-                scrollY: 'calc(100vh - 120px)',
-                scrollX: true,
-                paging: false,
-                info: false,
-                autoWidth: true,
-                ordering: true,
-                order: [[0, 'desc']],
-                searching: true,
-                scrollCollapse: true,
-                fixedHeader: true,
-                deferRender: true
-            });
+            function updateEntriesInfo(total) {
+                $('#entriesInfo').text(`Showing ${total} entries`);
+            }
 
-            // Load CSV and Populate DataTable
-            fetch('data.csv')
-                .then(response => response.text())
-                .then(csvText => {
-                    const rows = csvText.split('\n');
-                    const headers = rows[0].split(','); // Extract column headers
-                    const data = rows.slice(1).map(row => row.split(',')); // Extract data rows
-
-                    // Add column headers to DataTable
-                    headers.forEach(header => {
-                        table.columns.add({ title: header }).draw();
-                    });
-
-                    // Add rows to DataTable
-                    data.forEach(row => {
-                        table.row.add(row).draw();
-                    });
-
-                    // Update entry information
-                    $('#entriesInfo').text(`Showing ${data.length} entries`);
-                })
-                .catch(error => {
-                    console.error('Error loading CSV:', error);
+            function initializeDataTable(data) {
+                const table = $('#dataTable').DataTable({
+                    columns: columnOrder.map(col => {
+                        if (col === 'url') {
+                            return {
+                                title: col.replace(/_/g, ' ').toUpperCase(),
+                                data: col,
+                                render: (data, type) => type === 'display' ? `<a href="${data}" target="_blank">URL</a>` : data
+                            };
+                        } else {
+                            return {
+                                title: col.replace(/_/g, ' ').toUpperCase(),
+                                data: col,
+                                width: '150px'
+                            };
+                        }
+                    }),
+                    data: data,
+                    scrollY: 'calc(100vh - 120px)',
+                    scrollX: true,
+                    paging: false,
+                    info: false,
+                    autoWidth: true,
+                    ordering: true,
+                    order: [[0, 'desc']],
+                    searching: true,
+                    scrollCollapse: true,
+                    fixedHeader: true,
+                    deferRender: true
                 });
+                updateEntriesInfo(data.length);
+            }
+
+            function loadCSVData() {
+                fetch('data.csv')
+                    .then(response => response.text())
+                    .then(csvText => {
+                        const rows = csvText.split('\n').filter(row => row.trim() !== '');
+                        const headers = rows[0].split(',');
+                        const data = rows.slice(1).map(row => {
+                            const values = row.split(',');
+                            return headers.reduce((obj, header, idx) => {
+                                obj[header.trim()] = values[idx]?.trim() || '';
+                                return obj;
+                            }, {});
+                        });
+
+                        initializeDataTable(data);
+                    })
+                    .catch(error => {
+                        console.error('Error loading CSV:', error);
+                    });
+            }
+
+            loadCSVData();
         });
     </script>
 </body>
