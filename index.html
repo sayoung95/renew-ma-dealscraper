@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Renewables M&A Transactions</title>
+    <!-- DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/fixedheader/3.2.1/css/fixedHeader.dataTables.min.css">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* Prevent double scrollbars */
+            height: 100vh; /* Full viewport height */
+        }
+
+        .table-container {
+            width: 100%; /* Allow the table container to stretch to full width */
+            height: calc(100vh - 80px); /* Subtract the header height (adjust 80px as needed) */
+            overflow: hidden; /* Prevent scrollbars in the container */
+        }
+
+        #loadingIndicator {
+            position: fixed;
+            top: 10px;
+            right: 10px;
+            padding: 5px 10px;
+            background-color: #fff;
+            border: 1px solid #ccc;
+            display: none;
+            z-index: 1000;
+        }
+
+        .summary-column {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+
+        th.summary-column, td.summary-column {
+            width: 200px;
+            max-width: 200px;
+        }
+
+        td.details {
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+
+        .details-content {
+            padding: 10px;
+        }
+
+        #dataTable tbody tr {
+            cursor: pointer;
+        }
+
+        .dataTables_scrollBody {
+            overflow: auto !important; /* Ensure only the table body scrolls */
+        }
+
+        .dataTables_wrapper .dataTables_scrollHead {
+            overflow: visible;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+        }
+
+        h1 a {
+            text-decoration: none; /* Remove underline */
+            color: inherit; /* Use the same color as the header text */
+        }
+
+        #entriesInfo {
+            margin: 10px;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Section 1: Index Part -->
+    <h1><a href="javascript:location.reload()">Renewables M&A Transactions</a></h1>
+    <div id="entriesInfo">Showing 0 out of 0 entries</div>
+    <!-- Loading Indicator -->
+    <div id="loadingIndicator">Loading...</div>
+    <div class="table-container">
+        <table id="dataTable" class="display" style="width:100%">
+            <thead>
+                <tr>
+                    <!-- Column headers will be dynamically generated -->
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be dynamically loaded -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Section 2: Script Part -->
+    <!-- jQuery Library -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/fixedheader/3.2.1/js/dataTables.fixedHeader.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/alvaro-prieto/colResizable/colResizable-1.6.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            let cache = []; // Local cache for all data
+            let offset = 0;
+            const limit = 100; // Number of entries to fetch per request
+            let isLoading = false;
+            let allDataLoaded = false;
+            let table;
+
+            const columnOrder = ['date', 'buyer', 'seller', 'target', 'technology_type', 'capacity', 'acquisition_price', 'stake_percentage', 'url', "entry_added", "entry_last_updated"];
+
+            function updateEntriesInfo() {
+                const shown = table ? table.rows({ filter: 'applied' }).data().length : 0;
+                const total = cache.length;
+                $('#entriesInfo').text(`Showing ${shown} out of ${total} entries`);
+            }
+
+            function calculateTableHeight() {
+                const windowHeight = $(window).height();
+                const headerHeight = $('h1').outerHeight(true); // Include margins
+                const availableHeight = windowHeight - headerHeight - 20; // Adjust for margins/padding
+                return availableHeight;
+            }
+
+            function initializeDataTable() {
+                const columns = columnOrder.map((col) => {
+                    if (col === 'url') {
+                        return {
+                            title: formatColumnTitle(col),
+                            data: col,
+                            render: (data, type) => type === 'display' ? `<a href="${escapeHtml(data)}" target="_blank">URL</a>` : data
+                        };
+                    } else {
+                        return {
+                            title: formatColumnTitle(col),
+                            data: col,
+                            width: '150px'
+                        };
+                    }
+                });
+
+                table = $('#dataTable').DataTable({
+                    columns: columns,
+                    data: cache, // Initialize with the full dataset
+                    scrollY: `${calculateTableHeight()}px`,
+                    scrollX: true,
+                    paging: false,
+                    info: false,
+                    autoWidth: true,
+                    ordering: true,
+                    order: [[0, 'desc']],
+                    searching: true,
+                    scrollCollapse: true,
+                    fixedHeader: true,
+                    deferRender: true
+                });
+
+                table.columns.adjust().draw(false);
+                updateEntriesInfo();
+            }
+
+            async function loadInitialData() {
+                isLoading = true;
+                $('#loadingIndicator').show();
+
+                while (!allDataLoaded) {
+                    try {
+                        const response = await $.ajax({
+                            url: `/data?offset=${offset}&limit=${limit}`,
+                            method: 'GET'
+                        });
+
+                        const data = response.data;
+
+                        if (data.length > 0) {
+                            cache = cache.concat(data); // Append new data to cache
+                            offset += data.length;
+                        } else {
+                            allDataLoaded = true; // Stop when no more data is returned
+                        }
+                    } catch (error) {
+                        console.error('Error loading data:', error);
+                        break;
+                    }
+                }
+
+                initializeDataTable();
+                $('#loadingIndicator').hide();
+                isLoading = false;
+            }
+
+            function loadMoreData() {
+                if (isLoading || allDataLoaded) return;
+                isLoading = true;
+
+                const dataToLoad = cache.slice(offset, offset + limit); // Load data from the cache
+                if (dataToLoad.length > 0) {
+                    table.rows.add(dataToLoad).draw(false);
+                    offset += dataToLoad.length;
+                }
+
+                if (offset >= cache.length) {
+                    allDataLoaded = true;
+                }
+
+                isLoading = false;
+                updateEntriesInfo();
+            }
+
+            function scrollHandler() {
+                const container = $(this);
+                const scrollTop = container.scrollTop();
+                const scrollHeight = container[0].scrollHeight;
+                const containerHeight = container.height();
+
+                if (!isLoading && !allDataLoaded && scrollTop + containerHeight >= scrollHeight - 10) {
+                    loadMoreData();
+                }
+            }
+
+            function escapeHtml(text) {
+                if (text == null) return '';
+                return text
+                    .toString()
+                    .replace(/&/g, '&amp;')
+                    .replace(/</g, '&lt;')
+                    .replace(/>/g, '&gt;')
+                    .replace(/"/g, '&quot;')
+                    .replace(/'/g, '&#039;');
+            }
+
+            function formatColumnTitle(col) {
+                return col.replace(/_/g, ' ').replace(/\b\w/g, (l) => l.toUpperCase());
+            }
+
+            $(window).on('resize', () => {
+                if (table) {
+                    const newHeight = `${calculateTableHeight()}px`;
+                    table.settings()[0].oScroll.sY = newHeight;
+                    $('.dataTables_scrollBody').css('max-height', newHeight);
+                    table.columns.adjust().draw(false);
+                }
+            });
+
+            loadInitialData();
+            $('.dataTables_scrollBody').on('scroll', scrollHandler);
+        });
+    </script>
+</body>
+</html>

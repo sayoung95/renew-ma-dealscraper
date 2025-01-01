@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden; /* Prevent body scrollbars */
+    height: 100vh; /* Use full viewport height */
+}
+
+.table-container {
+    width: 100%; /* Allow full-width stretching */
+    height: calc(100vh - 80px); /* Subtract fixed header height */
+    overflow: hidden; /* Prevent additional scrollbars */
+}
+
+.dataTables_scrollBody {
+    overflow: auto !important; /* Ensure only the scrollable area scrolls */
+}
