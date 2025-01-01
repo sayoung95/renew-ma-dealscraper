@@ -112,7 +112,7 @@
             let allDataLoaded = false;
             let table;
 
-            const columnOrder = ['date', 'buyer', 'seller', 'target', 'technology_type', 'capacity', 'acquisition_price', 'stake_percentage', 'url', "entry_added", "entry_last_updated"];
+            const columnOrder = ["date", "buyer", "seller", "target", "technology_type", "capacity", "acquisition_price", "stake_percentage", "url", "entry_added", "entry_last_updated"];
 
             function updateEntriesInfo() {
                 const shown = table ? table.rows({ filter: 'applied' }).data().length : 0;
@@ -168,24 +168,20 @@
                 try {
                     $('#loadingIndicator').show();
 
-                    const response = await fetch('data.csv');
-                    const csvText = await response.text();
+                    const response = await fetch('data.json'); // Fetch the JSON file
+                    const jsonData = await response.json(); // Parse JSON data
 
-                    const rows = csvText.split('\n');
-                    const headers = rows[0].split(','); // Extract column headers
-                    const data = rows.slice(1).filter(row => row.trim() !== '').map(row => row.split(','));
-
-                    cache = data.map(row => {
-                        const entry = {};
-                        headers.forEach((header, index) => {
-                            entry[header.trim()] = row[index]?.trim();
+                    cache = jsonData.map((row) => {
+                        const parsedRow = {};
+                        columnOrder.forEach((col) => {
+                            parsedRow[col] = row[col] ?? "Unknown"; // Provide default value for missing fields
                         });
-                        return entry;
+                        return parsedRow;
                     });
 
                     initializeDataTable();
-                    $('#loadingIndicator').hide();
                     updateEntriesInfo();
+                    $('#loadingIndicator').hide();
                 } catch (error) {
                     console.error('Error loading data:', error);
                     $('#loadingIndicator').hide();
