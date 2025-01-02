@@ -5,6 +5,22 @@ body {
     height: 100vh; /* Use full viewport height */
 }
 
+.header-container {
+    margin-left: 20px; /* Indent from the left */
+}
+
+h1 {
+    font-size: 28px; /* Larger font for the main header */
+    margin: 0; /* Remove extra margin */
+    color: #333; /* Darker color for visibility */
+}
+
+h2 {
+    font-size: 18px; /* Smaller font for the subheader */
+    color: #666; /* Gray color for distinction */
+    margin: 5px 0 15px; /* Adjust spacing above and below */
+}
+
 .table-container {
     width: 100%; /* Allow full-width stretching */
     height: calc(100vh - 80px); /* Subtract fixed header height */
