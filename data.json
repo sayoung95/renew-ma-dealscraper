@@ -1,29 +1,354 @@
 [
     {
-        "date": "2025/01/02",
-        "buyer": "Stonepeak",
-        "seller": "Orsted",
-        "target": "onshore wind farms",
+        "date": "Sat, 09 No",
+        "buyer": "Alternergy Holdings Corp",
+        "seller": "Shell Overseas Investment B.V.",
+        "target": "Tablas Strait 1, 2, and 3 Offshore Wind Projects",
         "capacity": "Not found",
-        "acquisition_price": "$300 million",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Offshore Wind",
+        "url": "https://business.inquirer.net/489250/alternergy-now-owns-3-offshore-wind-projects",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 23:13:54"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Galp",
+        "seller": "Cobra",
+        "target": "Titan solar",
+        "capacity": "1.6 GW",
+        "acquisition_price": "€140 m",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.galp.com/corp/en/media/press-releases/press-release/id/1366/galp-takes-full-ownership-of-titan-solar",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 00:31:40"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Photon Energy Group",
+        "seller": "the two founding shareholders",
+        "target": "Lerta",
+        "capacity": "300 MWp",
+        "acquisition_price": "EUR 0.9 million",
+        "stake_percentage": "56.75%",
+        "technology_type": "Solar PV",
+        "url": "https://www.eqs-news.com/news/corporate/photon-energy-group-acquires-majority-stake-in-lerta-plans-full-takeover-before-year-end-2022/1700297",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 00:37:05"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Levanta Renewables",
+        "seller": "Thailand's Super Energy",
+        "target": "139.4MW solar project",
+        "capacity": "139.4MW",
+        "acquisition_price": "200 billion pesos",
+        "stake_percentage": "90%",
+        "technology_type": "Solar PV",
+        "url": "https://www.reccessary.com/en/news/ph-market/actis-takes-40-of-terra-solar-power-project-for-602-million",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 00:39:57"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Capital Dynamics",
+        "seller": "Energiekontor AG",
+        "target": "Pines Burn onshore wind project",
+        "capacity": "34MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "100 percent",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.capdyn.com/news/capital-dynamics-acquires-34mw-pines-burn-wind-project-from-energiekontor-ag/",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:07:42"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "ContourGlobal",
+        "seller": "Sun Tribe Development",
+        "target": "two late-stage solar PV assets located in South Carolina totaling 151 MWdc",
+        "capacity": "151 MWdc",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://finance.yahoo.com/news/contourglobal-enters-u-renewables-market-130300132.html",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:12:59"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Orsted",
+        "seller": "Brookfield Renewable",
+        "target": "Ireland and UK onshore wind power platform",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://orsted.ie/news/2021/05/orsted-acquires-ireland-and-uk-onshore-wind-power-platform-from-brookfield-renewable",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:14:52"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Capital Dynamics",
+        "seller": "ABO Wind NI Ltd",
+        "target": "subsidy-free onshore wind project",
+        "capacity": "68 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "100 percent",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.capdyn.com/news/capital-dynamics-acquires-pre-construction-wind-project-in-northern-ireland-uni/",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:24:15"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Qualitas Energy",
+        "seller": "Not found",
+        "target": "a 65 MW wind farm",
+        "capacity": "65 MW",
+        "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Other",
-        "url": "https://www.morningstar.com/news/dow-jones/202403131636/orsted-offloads-300-million-share-of-four-us-onshore-wind-farms-to-stonepeak",
+        "url": "https://www.renewablepress.com/energy/press-release-7998-qualitas-energy-acquires-majority-stake-in-a-65-mw-wind-farm-in-eastern-germany",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:15:03"
+        "entry_last_updated": "2025-01-03 01:29:01"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "PTT Group",
+        "seller": "Not found",
+        "target": "3.74GW solar power portfolio",
+        "capacity": "3.74GW",
+        "acquisition_price": "THB 14.582 billion",
+        "stake_percentage": "41.6%",
+        "technology_type": "Solar PV",
+        "url": "https://www.mercomindia.com/ptt-group-acquires-stake-avaadas-solar",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:32:53"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "ScottishPower",
+        "seller": "3R Energy and Mitchell Energy Ltd",
+        "target": "Onshore Wind Project",
+        "capacity": "165MW",
+        "acquisition_price": "£150 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.scottishpower.com/news/pages/scottishpower_acquires_major_new_onshore_wind_project.aspx",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:38:35"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "SSE Renewables",
+        "seller": "SSE Renewables",
+        "target": "Seagreen 1 offshore wind farm project",
+        "capacity": "1,140 megawatts",
+        "acquisition_price": "70m£",
+        "stake_percentage": "51%",
+        "technology_type": "Offshore Wind",
+        "url": "https://totalenergies.com/media/news/press-releases/total-enters-giant-offshore-wind-farm-project-scottish-north-sea",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:42:00"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Matrix Renewables",
+        "seller": "SolarStone Partners",
+        "target": "Pleasant Valley Solar Project",
+        "capacity": "4.6GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://markets.businessinsider.com/news/stocks/matrix-renewables-acquires-a-4-6-gw-us-development-portfolio-from-solarstone-1031750555?op=1",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 01:45:57"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "RWE AG",
+        "seller": "RWE AG",
+        "target": "N-9.1 and N-9.2",
+        "capacity": "2 GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "50%",
+        "technology_type": "Offshore Wind",
+        "url": "https://finance.yahoo.com/news/totalenergies-acquires-50-stake-two-151146758.html",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-03 02:07:05"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Brookfield",
+        "seller": "Brookfield",
+        "target": "Not found",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "12.45 %",
+        "technology_type": "Offshore Wind",
+        "url": "https://markets.businessinsider.com/news/stocks/216-rsted-completes-divestment-of-share-of-four-uk-offshore-wind-farms-1034182047",
+        "entry_added": "2024-12-31 16:41:31",
+        "entry_last_updated": "2025-01-03 02:19:32"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Partners Group",
+        "seller": "TotalEnergies",
+        "target": "Danish Fields, Cottonwood, and Hill Solar I",
+        "capacity": "2 GW",
+        "acquisition_price": "1,57 B€",
+        "stake_percentage": "50%",
+        "technology_type": "Solar PV",
+        "url": "https://corporate.totalenergies.us/news/integrated-power-renewables-totalenergies-implements-its-strategy-capital-recycling",
+        "entry_added": "2024-12-31 16:51:34",
+        "entry_last_updated": "2025-01-03 02:23:21"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Equinor",
+        "seller": "Not found",
+        "target": "U.S. Empire Wind project",
+        "capacity": "10.4 gigawatts",
+        "acquisition_price": "$2.5 billion",
+        "stake_percentage": "9.8%",
+        "technology_type": "Other",
+        "url": "https://www.morningstar.com/news/dow-jones/202410073374/equinor-buys-98-stake-in-orsted-as-part-of-renewables-push-2nd-update",
+        "entry_added": "2024-12-31 16:57:04",
+        "entry_last_updated": "2025-01-03 02:26:46"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "Energy Capital Partners",
+        "seller": "Ørsted",
+        "target": "three US solar and battery storage",
+        "capacity": "Not found",
+        "acquisition_price": "USD 572 million",
+        "stake_percentage": "50%",
+        "technology_type": "Other",
+        "url": "https://markets.businessinsider.com/news/stocks/%C3%B8rsted-sells-stake-in-us-solar-projects-to-energy-capital-partners-1034149904",
+        "entry_added": "2024-12-31 17:01:25",
+        "entry_last_updated": "2025-01-03 02:29:32"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "TotalEnergies",
+        "seller": "RWE",
+        "target": "OranjeWind offshore wind farm",
+        "capacity": "795MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/totalenergies-acquires-stake-in-netherlands-oranjewind-offshore-wind-farm",
+        "entry_added": "2025-01-03 02:31:30",
+        "entry_last_updated": "2025-01-03 02:31:30"
+    },
+    {
+        "date": "2025/01/02",
+        "buyer": "Norway's Equinor",
+        "seller": "Not found",
+        "target": "Danish offshore wind farm developer Orsted",
+        "capacity": "Not found",
+        "acquisition_price": "$2.5 billion",
+        "stake_percentage": "9.8%",
+        "technology_type": "Other",
+        "url": "https://www.rechargenews.com/wind/equinor-says-orsted-stake-is-better-value-way-to-own-offshore-wind-than-building-projects/2-1-1729480",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 12:45:02"
+    },
+    {
+        "date": "2025/01/02",
+        "buyer": "Copenhagen Infrastructure Partners",
+        "seller": "Liberty Renewables",
+        "target": "Liberty Renewables",
+        "capacity": "1.3 GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.utilitydive.com/news/copenhagen-infrastructure-onshore-wind-new-york/713299/",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 12:58:32"
+    },
+    {
+        "date": "2025/01/02",
+        "buyer": "Brookfield",
+        "seller": "Ørsted",
+        "target": "four operational offshore wind farms",
+        "capacity": "3.5 GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "12.45%",
+        "technology_type": "Offshore Wind",
+        "url": "https://windnexus.blogspot.com/2024/10/Brookfield%20-Acquires-12.45-Stake-in-rsteds-Four-Offshore-Wind-Farms.html",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 13:02:42"
+    },
+    {
+        "date": "2025/01/02",
+        "buyer": "APG, the largest pension asset manager in the Netherlands",
+        "seller": "Quinbrook Infrastructure Partners",
+        "target": "Gemini Solar + Storage project",
+        "capacity": "19.5 GW",
+        "acquisition_price": "US$1.2 billion",
+        "stake_percentage": "49%",
+        "technology_type": "Solar PV",
+        "url": "https://www.quinbrook.com/news-insights/quinbrook-and-primergy-solar-partner-with-apg-on-gemini-solar-storage-project/",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 13:07:13"
+    },
+    {
+        "date": "2025/01/02",
+        "buyer": "Matrix Renewables",
+        "seller": "rPlus Energies",
+        "target": "Pleasant Valley Solar Project",
+        "capacity": "261 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://list.solar/news/matrix-acquires-1/",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 13:10:45"
+    },
+    {
+        "date": "2025/01/02",
+        "buyer": "TotalEnergies",
+        "seller": "Not found",
+        "target": "Core Solar | TotalEnergies",
+        "capacity": "4 GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://corporate.totalenergies.us/news/united-states-totalenergies-adds-4-gw-its-renewable-energy-portfolio-acquisition-core-solar",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 13:17:35"
+    },
+    {
+        "date": "2025/01/02",
+        "buyer": "bp",
+        "seller": "Equinor",
+        "target": "Beacon Wind 1 and 2",
+        "capacity": "2.5 gigawatts",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://tw.news.yahoo.com/welcome-europes-largest-onshore-wind-161449722.html",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 13:38:56"
     },
     {
         "date": "2025/01/02",
         "buyer": "Capital Dynamics",
         "seller": "a global energy service provider",
-        "target": "long-term power purchase agreements",
+        "target": "two fully consented, construction-ready solar PV projects",
         "capacity": "157 MWp",
         "acquisition_price": "Not found",
         "stake_percentage": "100%",
         "technology_type": "Solar PV",
         "url": "https://www.capdyn.com/news/capital-dynamics-acquires-c317mwp-of-solar-pv-portfolios-in-spain-and-enters-pp/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:35:37"
+        "entry_last_updated": "2025-01-02 14:12:39"
     },
     {
         "date": "2025/01/02",
@@ -36,33 +361,20 @@
         "technology_type": "Solar PV",
         "url": "https://group.met.com/en/media/press-releases/keppel-met-renewables-acquires-pv-projects-in-northern-italy",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:42:48"
+        "entry_last_updated": "2025-01-02 14:19:19"
     },
     {
         "date": "2025/01/02",
         "buyer": "TotalEnergies",
         "seller": "RWE",
-        "target": "50 per cent stake in OranjeWind",
+        "target": "OranjeWind Offshore Wind Farm",
         "capacity": "795MW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Offshore Wind",
         "url": "https://finance.yahoo.com/news/netherlands-totalenergies-acquires-stake-oranjewind-140300054.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:57:41"
-    },
-    {
-        "date": "2025/01/02",
-        "buyer": "RWE",
-        "seller": "Not found",
-        "target": "N-9.1 (2 GW) and N-9.2",
-        "capacity": "2 GW",
-        "acquisition_price": "25-year licenses extendable to 35 years",
-        "stake_percentage": "50%",
-        "technology_type": "Offshore Wind",
-        "url": "https://totalenergies.com/news/press-releases/integrated-power-germany-totalenergies-joins-rwe-two-offshore-wind-projects",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:15:09"
+        "entry_last_updated": "2025-01-02 14:32:21"
     },
     {
         "date": "2025/01/02",
@@ -75,25 +387,25 @@
         "technology_type": "Other",
         "url": "https://www.mercomindia.com/purvah-acquire-bhojraj-renewables",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:23:57"
+        "entry_last_updated": "2025-01-02 14:54:31"
     },
     {
         "date": "2025/01/02",
         "buyer": "Energy Capital Partners",
-        "seller": "Ørsted",
+        "seller": "Renewable energy group Orsted DNNGY",
         "target": "Mockingbird Solar  and Sparta Solar  in Texas",
-        "capacity": "300 MW of solar and 300 MW/1,200 MWh",
+        "capacity": "300 MW",
         "acquisition_price": "$1.306 billion",
         "stake_percentage": "50%",
         "technology_type": "Other",
         "url": "https://www.benzinga.com/24/12/42559199/renewable-energy-company-orsted-sells-50-stake-in-us-solar-and-battery-projects-for-572m",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:32:16"
+        "entry_last_updated": "2025-01-02 15:03:19"
     },
     {
         "date": "2025/01/02",
         "buyer": "Endesa",
-        "seller": "Brookfield Renewable",
+        "seller": "Not found",
         "target": "operational photovoltaic (PV) assets in Spain",
         "capacity": "2 gigawatt",
         "acquisition_price": "EUR 817 million",
@@ -101,7 +413,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.zawya.com/en/business/m-a/masdar-endesa-to-bolster-spains-renewable-energy-via-stake-acquisition-deal-vzmwbkia",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:35:39"
+        "entry_last_updated": "2025-01-02 15:06:26"
     },
     {
         "date": "2025/01/02",
@@ -114,20 +426,20 @@
         "technology_type": "Other",
         "url": "https://markets.businessinsider.com/news/stocks/sangamam-power-projects-to-acquire-karvy-data-management-services-paving-the-way-for-a-brighter-future-1034175968",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:41:06"
+        "entry_last_updated": "2025-01-02 15:11:05"
     },
     {
         "date": "2025/01/02",
         "buyer": "Energy Capital Partners",
         "seller": "Ørsted",
-        "target": "Eleven Mile Solar Center, a solar and battery storage project in Arizona",
+        "target": "Eleven Mile Solar Center",
         "capacity": "Not found",
         "acquisition_price": "USD 1.3 billion",
         "stake_percentage": "50%",
         "technology_type": "Solar PV",
         "url": "https://www.chemanalyst.com/NewsAndDeals/NewsDetails/orsted-divests-shares-in-three-us-solar-and-battery-storage-projects-32301",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:48:38"
+        "entry_last_updated": "2025-01-02 15:17:49"
     },
     {
         "date": "2025/01/02",
@@ -136,11 +448,11 @@
         "target": "photovoltaic developer Projekt-Solartechnik",
         "capacity": "Not found",
         "acquisition_price": "PLN 55.2 million",
-        "stake_percentage": "12.83%",
+        "stake_percentage": "99.6%",
         "technology_type": "Solar PV",
         "url": "https://list.solar/news/grenevia-acquires/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:29:00"
+        "entry_last_updated": "2025-01-02 15:53:34"
     },
     {
         "date": "2025/01/02",
@@ -153,140 +465,23 @@
         "technology_type": "Solar PV",
         "url": "https://renewablemarketwatch.com/blog/560-omv-petrom-acquires-stake-in-a-portfolio-of-130-mw-solar-photovoltaic-projects-in-romania-from-renovatio",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:32:55"
+        "entry_last_updated": "2025-01-02 15:57:01"
     },
     {
         "date": "2025/01/02",
-        "buyer": "TotalEnergies",
-        "seller": "RWE",
-        "target": "OranjeWind offshore wind farm",
-        "capacity": "795MW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/totalenergies-acquires-stake-in-netherlands-oranjewind-offshore-wind-farm",
-        "entry_added": "2025-01-02 00:59:57",
-        "entry_last_updated": "2025-01-02 00:59:57"
-    },
-    {
-        "date": "2025/01/01",
-        "buyer": "Norway's Equinor",
-        "seller": "Not found",
-        "target": "Danish offshore wind farm developer Orsted",
-        "capacity": "Not found",
-        "acquisition_price": "$2.5 billion",
-        "stake_percentage": "9.8%",
-        "technology_type": "Other",
-        "url": "https://www.rechargenews.com/wind/equinor-says-orsted-stake-is-better-value-way-to-own-offshore-wind-than-building-projects/2-1-1729480",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:12:15"
-    },
-    {
-        "date": "2025/01/01",
-        "buyer": "Copenhagen Infrastructure Partners",
-        "seller": "Liberty Renewables",
-        "target": "Liberty Renewables",
-        "capacity": "1.3 GW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Onshore Wind",
-        "url": "https://www.utilitydive.com/news/copenhagen-infrastructure-onshore-wind-new-york/713299/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:26:21"
-    },
-    {
-        "date": "2025/01/01",
-        "buyer": "Brookfield",
-        "seller": "Ørsted",
-        "target": "Ørsted offshore wind farms",
-        "capacity": "3.5 GW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "12.45%",
-        "technology_type": "Offshore Wind",
-        "url": "https://windnexus.blogspot.com/2024/10/Brookfield%20-Acquires-12.45-Stake-in-rsteds-Four-Offshore-Wind-Farms.html",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:30:34"
-    },
-    {
-        "date": "2025/01/01",
-        "buyer": "APG, the largest pension asset manager in the Netherlands",
-        "seller": "Quinbrook Infrastructure Partners",
-        "target": "Gemini Solar + Storage",
-        "capacity": "19.5 GW",
-        "acquisition_price": "US$1.2 billion",
-        "stake_percentage": "49%",
-        "technology_type": "Solar PV",
-        "url": "https://www.quinbrook.com/news-insights/quinbrook-and-primergy-solar-partner-with-apg-on-gemini-solar-storage-project/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:35:10"
-    },
-    {
-        "date": "2025/01/01",
-        "buyer": "Matrix Renewables",
-        "seller": "rPlus Energies",
-        "target": "Pleasant Valley Solar Project",
-        "capacity": "261 MW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://list.solar/news/matrix-acquires-1/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:38:53"
-    },
-    {
-        "date": "2025/01/01",
-        "buyer": "TotalEnergies",
-        "seller": "Not found",
-        "target": "Core Solar | TotalEnergies",
-        "capacity": "4 GW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Solar PV",
-        "url": "https://corporate.totalenergies.us/news/united-states-totalenergies-adds-4-gw-its-renewable-energy-portfolio-acquisition-core-solar",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:45:52"
-    },
-    {
-        "date": "2025/01/01",
-        "buyer": "Not found",
-        "seller": "Not found",
-        "target": "The Fosen wind park",
-        "capacity": "4.2GW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Offshore Wind",
-        "url": "https://tw.news.yahoo.com/welcome-europes-largest-onshore-wind-161449722.html",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:11:32"
-    },
-    {
-        "date": "2024/12/31",
         "buyer": "EDPR",
         "seller": "EDP Renováveis, S.A",
         "target": "solar development portfolio",
-        "capacity": "360 GW",
+        "capacity": "155 GW",
         "acquisition_price": "EUR250m",
         "stake_percentage": "70%",
         "technology_type": "Solar PV",
         "url": "https://kronos-solar.com/en/media/edpr-acquires-solar-development-platform-based-germany",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:27:14"
+        "entry_last_updated": "2025-01-02 16:24:02"
     },
     {
-        "date": "2024/12/31",
-        "buyer": "Gulf Pacific Power",
-        "seller": "GE Energy Financial Services and Enel Green Power North America",
-        "target": "Rocky Caney Wind",
-        "capacity": "350-MW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "80%",
-        "technology_type": "Other",
-        "url": "https://harbert.net/hif-gulf-pacific-power-acquires-majority-stake-in-wind-portfolio/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:44:28"
-    },
-    {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Plains Wind",
         "seller": "GE Energy Financial Services and Enel Green Power North America, Inc",
         "target": "Gulf Plains Wind",
@@ -296,10 +491,10 @@
         "technology_type": "Other",
         "url": "https://ccagp.com/hif-gulf-pacific-power-acquires-majority-stake-in-wind-portfolio/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:50:27"
+        "entry_last_updated": "2025-01-02 16:37:23"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "GE Energy Financial Services",
         "seller": "Not found",
         "target": "Morjar onshore wind project",
@@ -309,10 +504,10 @@
         "technology_type": "Onshore Wind",
         "url": "https://www.gevernova.com/news/press-releases/ge-acquires-49-percent-stake-in-continuum-onshore-wind-farm-support-of-energy-transition-india",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:55:16"
+        "entry_last_updated": "2025-01-02 16:42:20"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "EDF Renewables",
         "seller": "EDF Renewables",
         "target": "Desert Quartzite project",
@@ -322,10 +517,10 @@
         "technology_type": "Other",
         "url": "https://envirologics.com/power-sustainable-acquires-50-stake-in-edf-renewables-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:56:47"
+        "entry_last_updated": "2025-01-02 16:44:38"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Ingka Group",
         "seller": "Copenhagen Infrastructure Partners",
         "target": "Utah, Texas solar parks",
@@ -335,10 +530,10 @@
         "technology_type": "Solar PV",
         "url": "https://www.ingka.com/newsroom/ingka-group-acquires-utah-texas-solar-parks-to-boost-renewable-energy-generation/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:08:20"
+        "entry_last_updated": "2025-01-02 16:51:29"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Duke Energy Renewables",
         "seller": "Sumitomo Corp. of Americas",
         "target": "Mesquite Creek Wind Farm",
@@ -348,10 +543,10 @@
         "technology_type": "Other",
         "url": "https://www.windpowerengineering.com/duke-energy-acquires-50-stake-in-texas-mesquite-creek-wind-farm/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:38:28"
+        "entry_last_updated": "2025-01-02 17:08:16"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "six companies",
         "seller": "February 2022 offshore wind lease sale in the New York Bight",
         "target": "offshore wind lease sale in the New York Bight",
@@ -361,10 +556,10 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.utilitydive.com/news/eversource-offshore-wind-orsted-new-england/649605/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:52:53"
+        "entry_last_updated": "2025-01-02 17:15:52"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "EDF Renewables",
         "seller": "EDF Renewables North America",
         "target": "five wind farms",
@@ -374,23 +569,23 @@
         "technology_type": "Other",
         "url": "https://finance.yahoo.com/news/boralex-acquires-50-interest-five-133000054.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:37:23"
+        "entry_last_updated": "2025-01-02 17:36:52"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "large corporate off taker",
         "seller": "a major independent power producer",
-        "target": "Alberta Wind Project",
+        "target": "Alberta Wind Project\")",
         "capacity": "100MW",
         "acquisition_price": "$940,000 Canadian dollars",
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://finance.yahoo.com/news/royalties-acquires-royalty-wind-project-000000763.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:54:12"
+        "entry_last_updated": "2025-01-02 17:54:27"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "BP plc",
         "seller": "Not found",
         "target": "Asian Renewable Energy Hub",
@@ -400,10 +595,10 @@
         "technology_type": "Other",
         "url": "https://finance.yahoo.com/news/bp-acquire-stake-australias-renewable-134001008.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:15:33"
+        "entry_last_updated": "2025-01-02 18:09:54"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Gentari",
         "seller": "Northland and Japan-based Mitsui & Co",
         "target": "Hai Long Project",
@@ -413,23 +608,23 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.renewableenergymagazine.com/wind/gentari-acquires-offshore-wind-capability-with-partnership-20231229",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:36:26"
+        "entry_last_updated": "2025-01-02 18:25:31"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Energy Capital Partners",
-        "seller": "Ørsted",
-        "target": "Lincoln Land Wind, Plum Creek Wind and Willow Creek Wind",
+        "seller": "Energy Capital Partners",
+        "target": "three onshore wind farms and one solar farm",
         "capacity": "Not found",
         "acquisition_price": "$410 Million",
         "stake_percentage": "50%",
         "technology_type": "Other",
         "url": "https://finance.yahoo.com/news/rsted-sells-410-million-stake-153000205.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:19:06"
+        "entry_last_updated": "2025-01-02 19:53:59"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "UK Green Investment Bank",
         "seller": "Green Investment Group",
         "target": "Galloper offshore wind farm",
@@ -439,23 +634,23 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.greeninvestmentgroup.com/en/news/2015/galloper-offshore-wind-farm.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:21:03"
+        "entry_last_updated": "2025-01-02 19:56:41"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Ayana Renewable Power Private Limited",
         "seller": "ACME Solar Holdings Private Limited",
         "target": "two solar power projects in Karnataka",
         "capacity": "450 MW",
-        "acquisition_price": "25-year power purchase agreement",
+        "acquisition_price": "Not found",
         "stake_percentage": "100%",
         "technology_type": "Solar PV",
         "url": "https://www.mercomindia.com/ayana-acquires-solar-project-acme",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:39:43"
+        "entry_last_updated": "2025-01-02 20:12:04"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "QatarEnergy",
         "seller": "TotalEnergies",
         "target": "Iraq Solar Project",
@@ -465,10 +660,10 @@
         "technology_type": "Solar PV",
         "url": "https://www.morningstar.com/news/dow-jones/202410285983/qatarenergy-takes-50-stake-in-totalenergies-iraq-solar-project",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:45:45"
+        "entry_last_updated": "2025-01-02 20:22:22"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "InfraRed Capital Partners",
         "seller": "Not found",
         "target": "Odell , Deerfield , and Sugar Creek",
@@ -478,10 +673,10 @@
         "technology_type": "Other",
         "url": "https://www.ircp.com/case-study/us-onshore-wind/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:49:48"
+        "entry_last_updated": "2025-01-02 20:27:48"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Aspen Power",
         "seller": "PPL Corporation",
         "target": "solar power developer Safari Energy LLC",
@@ -491,10 +686,10 @@
         "technology_type": "Solar PV",
         "url": "https://finance.yahoo.com/news/carlyle-backs-solar-developer-aspen-110446499.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 10:14:03"
+        "entry_last_updated": "2025-01-02 20:40:09"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "TotalEnergies",
         "seller": "Global Infrastructure Partners",
         "target": "Clearway Energy Group",
@@ -504,10 +699,10 @@
         "technology_type": "Other",
         "url": "https://finance.yahoo.com/news/totalenergies-acquires-stake-clearway-gip-120000286.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 10:16:54"
+        "entry_last_updated": "2025-01-02 20:43:18"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Aditya Birla Group",
         "seller": "The Aditya Birla Group",
         "target": "Ayana Renewable Power Four",
@@ -517,12 +712,12 @@
         "technology_type": "Other",
         "url": "https://www.eqmagpro.com/hindalco-inds-acquires-26-stake-in-ayana-renewable-power-four-eq/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 10:21:23"
+        "entry_last_updated": "2025-01-02 20:48:58"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Capital Dynamics",
-        "seller": "Sev.en Inntech a.s.",
+        "seller": "Sev.en Inntech a.s",
         "target": "50 MW PVPP Saxonie solar project",
         "capacity": "50 MW",
         "acquisition_price": "Not found",
@@ -530,62 +725,36 @@
         "technology_type": "Solar PV",
         "url": "https://www.linkedin.com/posts/clean-energy-pipeline_keppel-met-renewables-acquires-two-solar-activity-7221801258897006592-3E1d",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:07:00"
+        "entry_last_updated": "2025-01-02 21:15:53"
     },
     {
-        "date": "2024/12/31",
-        "buyer": "Gulf Pacific Power",
-        "seller": "GE Energy Financial Services and Enel Green Power North America",
-        "target": "long-term power purchase agreements",
-        "capacity": "812-MW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "80%",
-        "technology_type": "Other",
-        "url": "https://www.windpowerengineering.com/gulf-pacific-power-acquires-majority-stake-in-wind-portfolio/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:35:09"
-    },
-    {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "RWE",
         "seller": "RWE",
-        "target": "two offshore wind projects",
+        "target": "two offshore wind projects in the North Sea",
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "50%",
         "technology_type": "Offshore Wind",
         "url": "https://www.nasdaq.com/articles/totalenergies-acquire-50-stake-germany-offshore-wind-projects",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:38:15"
+        "entry_last_updated": "2025-01-02 21:24:48"
     },
     {
-        "date": "2024/12/31",
-        "buyer": "Energy Capital Partners",
-        "seller": "Ørsted",
-        "target": "Lincoln Land Wind, Plum Creek Wind and Willow Creek Wind",
-        "capacity": "Not found",
-        "acquisition_price": "$410 Million",
-        "stake_percentage": "50%",
-        "technology_type": "Other",
-        "url": "https://www.hartenergy.com/exclusives/orsted-sells-410-million-stake-us-wind-solar-projects-pe-firm-202668",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:52:38"
-    },
-    {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "TotalEnergies",
         "seller": "RWE",
-        "target": "6.5GW German offshore wind hub",
+        "target": "two offshore wind projects",
         "capacity": "6.5GW",
         "acquisition_price": "50 per cent stake",
         "stake_percentage": "Not found",
         "technology_type": "Offshore Wind",
         "url": "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/totalenergies-acquires-stake-in-two-offshore-wind-projects-in-german-north-sea",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:59:57"
+        "entry_last_updated": "2025-01-02 21:35:34"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Equinor",
         "seller": "Not found",
         "target": "Danish offshore wind farm developer",
@@ -595,10 +764,23 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.bairdmaritime.com/offshore/renewables/offshore-wind/equinor-acquires-98-per-cent-stake-in-danish-offshore-wind-developer",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:14:49"
+        "entry_last_updated": "2025-01-02 21:44:07"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
+        "buyer": "Indus Towers",
+        "seller": "Not found",
+        "target": "solar PV plant",
+        "capacity": "130 MW",
+        "acquisition_price": "Rs 38.03 crore",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indus-towers-to-acquire-26-pc-stake-in-jsw-green-energy-eight-for-rs-38-crore/articleshow/116293656.cms",
+        "entry_added": "2024-12-30 22:31:36",
+        "entry_last_updated": "2025-01-02 21:53:13"
+    },
+    {
+        "date": "2025/01/02",
         "buyer": "Qualitas Energy",
         "seller": "Ares Management",
         "target": "20 GW of solar PV and storage assets",
@@ -608,10 +790,10 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/press-releases/qualitas-energy-acquires-heelstone-a-us-renewable-energy-company-from-ares-management/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:33:55"
+        "entry_last_updated": "2025-01-02 22:10:31"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Stonepeak Infrastructure Partners",
         "seller": "Swancor",
         "target": "Formosa 2 and Formosa 3",
@@ -621,166 +803,88 @@
         "technology_type": "Offshore Wind",
         "url": "https://irei.com/news/swancor-sell-95-stake-renewable-energy-arm-stonepeak/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:42:32"
+        "entry_last_updated": "2025-01-02 22:16:19"
     },
     {
-        "date": "2024/12/31",
+        "date": "2025/01/02",
         "buyer": "Duke Energy",
         "seller": "Duke",
-        "target": "lease the project to the end user",
+        "target": "smaller and mid-scale commercial projects",
         "capacity": "1 megawatt to 85 megawatts",
         "acquisition_price": "up to $225 million",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.greentechmedia.com/articles/read/Duke-Energy-Buys-Major-Stake-in-REC-Solar-Aims-to-Invest-225M-in-Commerci",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:56:51"
+        "entry_last_updated": "2025-01-02 22:28:49"
     },
     {
-        "date": "2024/12/31",
-        "buyer": "Brookfield",
-        "seller": "Brookfield",
-        "target": "Not found",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "12.45 %",
-        "technology_type": "Offshore Wind",
-        "url": "https://markets.businessinsider.com/news/stocks/216-rsted-completes-divestment-of-share-of-four-uk-offshore-wind-farms-1034182047",
-        "entry_added": "2024-12-31 16:41:31",
-        "entry_last_updated": "2024-12-31 16:41:31"
-    },
-    {
-        "date": "2024/12/31",
-        "buyer": "Partners Group",
-        "seller": "TotalEnergies",
-        "target": "Danish Fields, Cottonwood, and Hill Solar I",
-        "capacity": "2 GW",
-        "acquisition_price": "1,57 B€",
-        "stake_percentage": "50%",
-        "technology_type": "Solar PV",
-        "url": "https://corporate.totalenergies.us/news/integrated-power-renewables-totalenergies-implements-its-strategy-capital-recycling",
-        "entry_added": "2024-12-31 16:51:34",
-        "entry_last_updated": "2024-12-31 16:51:34"
-    },
-    {
-        "date": "2024/12/31",
-        "buyer": "Equinor",
-        "seller": "Not found",
-        "target": "Danish wind energy producer Orsted",
-        "capacity": "10.4 gigawatts",
-        "acquisition_price": "$2.5 billion",
-        "stake_percentage": "9.8%",
-        "technology_type": "Other",
-        "url": "https://www.morningstar.com/news/dow-jones/202410073374/equinor-buys-98-stake-in-orsted-as-part-of-renewables-push-2nd-update",
-        "entry_added": "2024-12-31 16:57:04",
-        "entry_last_updated": "2024-12-31 16:57:04"
-    },
-    {
-        "date": "2024/12/31",
-        "buyer": "Energy Capital Partners",
-        "seller": "Ørsted",
-        "target": "three US solar and battery storage",
-        "capacity": "Not found",
-        "acquisition_price": "USD 572 million",
-        "stake_percentage": "50%",
-        "technology_type": "Other",
-        "url": "https://markets.businessinsider.com/news/stocks/%C3%B8rsted-sells-stake-in-us-solar-projects-to-energy-capital-partners-1034149904",
-        "entry_added": "2024-12-31 17:01:25",
-        "entry_last_updated": "2024-12-31 17:01:25"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Indus Towers",
-        "seller": "Not found",
-        "target": "solar PV plant",
-        "capacity": "Not found",
-        "acquisition_price": "Rs 38.03 crore",
-        "stake_percentage": "Not found",
-        "technology_type": "Solar PV",
-        "url": "https://economictimes.indiatimes.com/markets/stocks/news/indus-towers-to-acquire-26-pc-stake-in-jsw-green-energy-eight-for-rs-38-crore/articleshow/116293656.cms",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Greenbacker Renewable Energy",
-        "seller": "Palmer Management Corporation and other parties",
-        "target": "electricity",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://www.windpowerengineering.com/greenbacker-renewable-energy-acquires-maine-wind-project/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "Tokyu Land and Renewable Japan",
         "seller": "Tokyu Land and Renewable Japan",
-        "target": "Not found",
-        "capacity": "Not found",
+        "target": "joint investment agreement to develop and install 1 GW of renewable power plants",
+        "capacity": "1 GW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://list.solar/news/1gw-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 22:42:38"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "Captona Partners",
         "seller": "Not found",
         "target": "6 MW solar farm",
-        "capacity": "Not found",
+        "capacity": "6 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "24%",
         "technology_type": "Other",
         "url": "https://www.utilitydive.com/news/investment-firm-ullico-buys-24-stake-in-13-gw-renewables-portfolio/541604/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 22:45:38"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "OX2",
         "seller": "original project developers",
         "target": "three solar projects",
-        "capacity": "Not found",
+        "capacity": "1 GW",
         "acquisition_price": "7.8 billion SEK",
         "stake_percentage": "Not found",
         "technology_type": "Onshore Wind",
         "url": "https://www.ox2.com/newsroom/press-releases-news/2024/ox2-acquires-first-onshore-wind-power-project-in-australia-with-planned-capacity-of-1-gw/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 22:51:40"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "HASI",
         "seller": "The AES Corporation",
         "target": "17 operating solar projects, and one wind project",
-        "capacity": "Not found",
+        "capacity": "1.3-GW",
         "acquisition_price": "Not found",
         "stake_percentage": "49%",
         "technology_type": "Solar PV",
         "url": "https://w3.windfair.net/wind-energy/news/42811-hannon-armstrong-hasi-aes-usa-acquisition-portfolio-renewable-energy-assets-developer-operator-battery-system-onshore-wind-farm-solar",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 22:54:45"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "Cbus Super",
         "seller": "Copenhagen Infrastructure Partners",
-        "target": "Star of the South",
-        "capacity": "Not found",
+        "target": "Australia’s first offshore wind project",
+        "capacity": "2.2-GW",
         "acquisition_price": "Not found",
         "stake_percentage": "10%",
         "technology_type": "Offshore Wind",
         "url": "https://www.offshore-mag.com/renewable-energy/article/14277616/cbus-acquires-10-stake-in-cips-22-gw-australian-offshore-wind-farm",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 22:57:03"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "Capital Dynamics",
         "seller": "Energiekontor AG",
         "target": "Garbet Wind Project",
@@ -790,62 +894,75 @@
         "technology_type": "Other",
         "url": "https://www.capdyn.com/news/capital-dynamics-acquires-garbet-wind-project-in-scotland/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:05:53"
     },
     {
-        "date": "2024/12/30",
-        "buyer": "Mitsui & Co",
-        "seller": "SECI",
+        "date": "2025/01/02",
+        "buyer": "SECI",
+        "seller": "Not found",
         "target": "multiple wind and solar plus battery storage projects",
-        "capacity": "Not found",
+        "capacity": "400 MW",
         "acquisition_price": "$1.35 billion",
         "stake_percentage": "49%",
         "technology_type": "Other",
         "url": "https://www.mercomindia.com/mitsui-acquire-stake-renew-round-the-clock-project",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:20:53"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "Enel Green Power",
         "seller": "Enel Green Power",
         "target": "42 MW wind park",
-        "capacity": "Not found",
+        "capacity": "42 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "100%",
         "technology_type": "Other",
         "url": "https://group.met.com/en/media/press-releases/met-group-acquires-a-42-mw-wind-park-in-bulgaria",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:26:03"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
         "buyer": "Repsol",
         "seller": "Hecate Energy",
-        "target": "ConnectGen",
-        "capacity": "Not found",
+        "target": "onshore wind, PV solar assets and batteries",
+        "capacity": "20,000 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "40%",
         "technology_type": "Other",
         "url": "https://www.renewableenergymagazine.com/wind/repsol-enters-us-onshore-wind-market-with-20230908",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:37:24"
     },
     {
-        "date": "2024/12/30",
-        "buyer": "Ørsted",
-        "seller": "Public Service Enterprise Groups",
-        "target": "Ocean Wind 1",
-        "capacity": "Not found",
+        "date": "2025/01/02",
+        "buyer": "Gulf Pacific Power",
+        "seller": "GE Energy Financial Services and Enel Green Power North America",
+        "target": "long-term power purchase agreements",
+        "capacity": "812-MW",
         "acquisition_price": "Not found",
-        "stake_percentage": "25 %",
-        "technology_type": "Offshore Wind",
-        "url": "https://markets.businessinsider.com/news/stocks/216-rsted-to-acquire-psegs-equity-share-in-ocean-wind-1-1032025370?op=1",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "stake_percentage": "80%",
+        "technology_type": "Other",
+        "url": "https://www.windpowerengineering.com/gulf-pacific-power-acquires-majority-stake-in-wind-portfolio/",
+        "entry_added": "2025-01-02 21:21:24",
+        "entry_last_updated": "2025-01-02 21:21:24"
     },
     {
-        "date": "2024/12/30",
+        "date": "2025/01/02",
+        "buyer": "ECP",
+        "seller": "Energy Capital Partners",
+        "target": "Lincoln Land Wind, Plum Creek Wind and Willow Creek Wind",
+        "capacity": "Not found",
+        "acquisition_price": "$410 Million",
+        "stake_percentage": "50%",
+        "technology_type": "Other",
+        "url": "https://www.hartenergy.com/exclusives/orsted-sells-410-million-stake-us-wind-solar-projects-pe-firm-202668",
+        "entry_added": "2025-01-02 21:28:01",
+        "entry_last_updated": "2025-01-02 21:28:01"
+    },
+    {
+        "date": "2025/01/02",
         "buyer": "Equinor",
         "seller": "Not found",
         "target": "Ørsted",
@@ -854,190 +971,8 @@
         "stake_percentage": "9.8%",
         "technology_type": "Other",
         "url": "https://www.offshore-mag.com/business-briefs/company-news/news/55233874/equinor-equinor-takes-stake-in-rsted",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Galp",
-        "seller": "Cobra",
-        "target": "Titan solar",
-        "capacity": "Not found",
-        "acquisition_price": "€140 m",
-        "stake_percentage": "Not found",
-        "technology_type": "Solar PV",
-        "url": "https://www.galp.com/corp/en/media/press-releases/press-release/id/1366/galp-takes-full-ownership-of-titan-solar",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Photon Energy Group",
-        "seller": "the two founding shareholders",
-        "target": "Lerta",
-        "capacity": "Not found",
-        "acquisition_price": "EUR 0.9 million",
-        "stake_percentage": "56.75%",
-        "technology_type": "Solar PV",
-        "url": "https://www.eqs-news.com/news/corporate/photon-energy-group-acquires-majority-stake-in-lerta-plans-full-takeover-before-year-end-2022/1700297",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Levanta Renewables",
-        "seller": "Thailand's Super Energy",
-        "target": "139.4MW solar project",
-        "capacity": "Not found",
-        "acquisition_price": "200 billion pesos",
-        "stake_percentage": "90%",
-        "technology_type": "Solar PV",
-        "url": "https://www.reccessary.com/en/news/ph-market/actis-takes-40-of-terra-solar-power-project-for-602-million",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four U.S. onshore wind farms",
-        "capacity": "Not found",
-        "acquisition_price": "$300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Onshore Wind",
-        "url": "https://www.windpowerengineering.com/orsted-sells-majority-stake-in-onshore-wind-portfolio/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Capital Dynamics",
-        "seller": "Energiekontor AG",
-        "target": "34MW Pines Burn Wind Project",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "100 percent",
-        "technology_type": "Onshore Wind",
-        "url": "https://www.capdyn.com/news/capital-dynamics-acquires-34mw-pines-burn-wind-project-from-energiekontor-ag/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "ContourGlobal",
-        "seller": "Sun Tribe Development",
-        "target": "Not found",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Solar PV",
-        "url": "https://finance.yahoo.com/news/contourglobal-enters-u-renewables-market-130300132.html",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Orsted",
-        "seller": "Brookfield Renewable",
-        "target": "Ireland and UK onshore wind power platform",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Onshore Wind",
-        "url": "https://orsted.ie/news/2021/05/orsted-acquires-ireland-and-uk-onshore-wind-power-platform-from-brookfield-renewable",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Capital Dynamics",
-        "seller": "ABO Wind NI Ltd",
-        "target": "subsidy-free onshore wind project",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "100 percent",
-        "technology_type": "Onshore Wind",
-        "url": "https://www.capdyn.com/news/capital-dynamics-acquires-pre-construction-wind-project-in-northern-ireland-uni/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Qualitas Energy",
-        "seller": "Not found",
-        "target": "65 MW wind farm",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://www.renewablepress.com/energy/press-release-7998-qualitas-energy-acquires-majority-stake-in-a-65-mw-wind-farm-in-eastern-germany",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "PTT Group",
-        "seller": "Not found",
-        "target": "3.74GW solar power portfolio",
-        "capacity": "Not found",
-        "acquisition_price": "THB 14.582 billion",
-        "stake_percentage": "41.6%",
-        "technology_type": "Solar PV",
-        "url": "https://www.mercomindia.com/ptt-group-acquires-stake-avaadas-solar",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "ScottishPower",
-        "seller": "3R Energy and Mitchell Energy Ltd",
-        "target": "Onshore Wind Project",
-        "capacity": "Not found",
-        "acquisition_price": "£150 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Onshore Wind",
-        "url": "https://www.scottishpower.com/news/pages/scottishpower_acquires_major_new_onshore_wind_project.aspx",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "SSE Renewables",
-        "seller": "SSE Renewables",
-        "target": "Seagreen 1 offshore wind farm project",
-        "capacity": "Not found",
-        "acquisition_price": "70m£",
-        "stake_percentage": "51%",
-        "technology_type": "Offshore Wind",
-        "url": "https://totalenergies.com/media/news/press-releases/total-enters-giant-offshore-wind-farm-project-scottish-north-sea",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "Matrix Renewables",
-        "seller": "SolarStone Partners",
-        "target": "utility-scale solar energy projects",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Solar PV",
-        "url": "https://markets.businessinsider.com/news/stocks/matrix-renewables-acquires-a-4-6-gw-us-development-portfolio-from-solarstone-1031750555?op=1",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2024/12/30",
-        "buyer": "RWE AG",
-        "seller": "RWE AG",
-        "target": "N-9.1 and N-9.2",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "50%",
-        "technology_type": "Offshore Wind",
-        "url": "https://finance.yahoo.com/news/totalenergies-acquires-50-stake-two-151146758.html",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_added": "2025-01-02 23:50:15",
+        "entry_last_updated": "2025-01-02 23:50:15"
     },
     {
         "date": "2024/12/27",
@@ -1050,7 +985,7 @@
         "technology_type": "Other",
         "url": "https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-december-27-2024/article69029889.ece",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 08:48:10"
+        "entry_last_updated": "2025-01-02 19:34:37"
     },
     {
         "date": "2024/12/24",
@@ -1058,12 +993,12 @@
         "seller": "Brookfield Renewable Partners",
         "target": "745MW of predominantly wind assets",
         "capacity": "745MW",
-        "acquisition_price": "€1.2 billion",
+        "acquisition_price": "€1.2 billion and an equity value of €696 million",
         "stake_percentage": "49.99 percent",
         "technology_type": "Other",
         "url": "https://www.evwind.es/2024/12/24/masdar-expands-photovoltaic-and-wind-power-portfolio-in-europe/103450",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:19:06"
+        "entry_last_updated": "2025-01-02 15:44:55"
     },
     {
         "date": "2024/12/20",
@@ -1076,7 +1011,7 @@
         "technology_type": "Offshore Wind",
         "url": "https://europeanenergy.com/2024/12/20/totalenergies-european-energy-and-sonfor-close-deal-on-two-danish-offshore-wind-projects/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:37:35"
+        "entry_last_updated": "2025-01-02 16:27:50"
     },
     {
         "date": "2024/12/19",
@@ -1086,10 +1021,10 @@
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
-        "technology_type": "Other",
+        "technology_type": "Onshore Wind",
         "url": "https://reglobal.org/cip-acquires-majority-stake-in-abo-energys-wind-hydrogen-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:28:06"
+        "entry_last_updated": "2025-01-02 14:58:18"
     },
     {
         "date": "2024/12/19",
@@ -1102,7 +1037,7 @@
         "technology_type": "Other",
         "url": "https://pv-magazine-usa.com/2024/12/19/solar-projects-on-the-horizon-for-meta-d-e-shaw-renewable-investments/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:09:02"
+        "entry_last_updated": "2025-01-02 15:36:00"
     },
     {
         "date": "2024/12/18",
@@ -1115,12 +1050,12 @@
         "technology_type": "Solar PV",
         "url": "https://latinfinance.com/daily-brief/2024/12/17/grenergy-sells-stake-in-chilean-solar-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:38:17"
+        "entry_last_updated": "2025-01-02 15:08:39"
     },
     {
         "date": "2024/12/14",
         "buyer": "Kansai Electric",
-        "seller": "Iberdrola",
+        "seller": "Not found",
         "target": "German Wind Farm",
         "capacity": "2,500 MW",
         "acquisition_price": "€1.28 billion",
@@ -1128,7 +1063,7 @@
         "technology_type": "Offshore Wind",
         "url": "https://responsibleus.com/kansai-electric-acquires-49-stake-in-iberdrolas-german-wind-farm/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:19:05"
+        "entry_last_updated": "2025-01-02 14:50:23"
     },
     {
         "date": "2024/12/13",
@@ -1136,12 +1071,12 @@
         "seller": "SunEnergy1",
         "target": "utility scale solar projects in North Carolina and Virginia",
         "capacity": "510 MW",
-        "acquisition_price": "December 10, 2024",
+        "acquisition_price": "2024",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://brookfieldrenewableus.com/news-press/brookfield-agrees-to-acquire-510-mw-solar-portfolio-from-sunenergy1/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:12:52"
+        "entry_last_updated": "2025-01-02 15:39:22"
     },
     {
         "date": "2024/12/11",
@@ -1154,7 +1089,7 @@
         "technology_type": "Solar PV",
         "url": "https://mb.com.ph/2024/12/11/acen-acquires-stake-in-bangladesh-solar-project",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:33:29"
     },
     {
         "date": "2024/12/05",
@@ -1167,7 +1102,7 @@
         "technology_type": "Other",
         "url": "https://www.energymonitor.ai/news/apollo-totalenergies-solar-bess-portfolio/",
         "entry_added": "2024-12-31 16:36:03",
-        "entry_last_updated": "2024-12-31 16:36:03"
+        "entry_last_updated": "2025-01-03 02:14:41"
     },
     {
         "date": "2024/12/04",
@@ -1180,7 +1115,7 @@
         "technology_type": "Other",
         "url": "https://www.globenewswire.com/news-release/2024/12/04/2991584/0/en/Apollo-Funds-Acquire-50-Stake-in-2-GW-Texas-Solar-and-BESS-Portfolio-from-TotalEnergies.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:50:01"
+        "entry_last_updated": "2025-01-02 18:37:19"
     },
     {
         "date": "2024/11/26",
@@ -1193,7 +1128,7 @@
         "technology_type": "Solar PV",
         "url": "https://renewablewatch.in/2024/11/26/rwe-acquires-majority-stake-in-5-5-gw-solar-storage-jv-in-us/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:44:34"
+        "entry_last_updated": "2025-01-02 15:14:09"
     },
     {
         "date": "2024/11/26",
@@ -1206,33 +1141,33 @@
         "technology_type": "Solar PV",
         "url": "https://reglobal.org/rwe-acquires-majority-stake-in-5-5-gw-solar-storage-jv-in-us/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:51:24"
+        "entry_last_updated": "2025-01-02 15:20:18"
     },
     {
         "date": "2024/11/22",
         "buyer": "National Transmission Corporation",
         "seller": "National Transmission Corporation",
-        "target": "180-megawatt ground-mounted solar project",
+        "target": "state-owned National Transmission Corporation",
         "capacity": "180-megawatt",
-        "acquisition_price": "20-year fixed price power purchase agreement",
+        "acquisition_price": "20-year",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://asian-power.com/project/news/jv-energy-acquires-stake-in-180-mw-solar-project-in-ph",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:59:32"
+        "entry_last_updated": "2025-01-02 16:47:44"
     },
     {
         "date": "2024/11/12",
         "buyer": "Shizuoka Gas",
         "seller": "Hoan Loc Viet Joint Stock Company",
-        "target": "My Son solar plant",
+        "target": "My Son solar plant in Ninh Thuan Province",
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "25%",
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/2024/11/12/japanese-gas-supplier-buys-stake-in-vietnamese-pv-operator/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:49:05"
+        "entry_last_updated": "2025-01-02 22:22:24"
     },
     {
         "date": "2024/11/11",
@@ -1245,7 +1180,7 @@
         "technology_type": "Other",
         "url": "https://www.philstar.com/business/2024/11/11/2399117/alternergy-buys-out-shells-stake-wind-projects",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 08:49:47"
+        "entry_last_updated": "2025-01-02 19:38:49"
     },
     {
         "date": "2024/11/09",
@@ -1257,8 +1192,8 @@
         "stake_percentage": "40-percent",
         "technology_type": "Other",
         "url": "https://www.manilatimes.net/2024/11/09/business/top-business/alternergy-fully-acquires-tablas-wind-projects/2000804",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_added": "2025-01-02 23:43:48",
+        "entry_last_updated": "2025-01-02 23:43:48"
     },
     {
         "date": "2024/11/04",
@@ -1290,7 +1225,7 @@
         "date": "2024/11/03",
         "buyer": "WKN",
         "seller": "WKN",
-        "target": null,
+        "target": "",
         "capacity": "1,350 MW",
         "acquisition_price": "$1.5 billion",
         "stake_percentage": "full subscription",
@@ -1302,15 +1237,15 @@
     {
         "date": "2024/10/30",
         "buyer": "Brookfield, its institutional partners and its listed affiliate Brookfield Renewable",
-        "seller": "Not found",
-        "target": "offshore wind farms",
+        "seller": "Orsted - North American Windpower",
+        "target": "U.K. offshore wind farms",
         "capacity": "3.5 GW",
         "acquisition_price": "$2.3 billion",
         "stake_percentage": "12.45%",
         "technology_type": "Offshore Wind",
         "url": "https://nawindpower.com/brookfield-acquires-share-of-uk-offshore-wind-farms-from-orsted",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:05:51"
+        "entry_last_updated": "2025-01-02 12:39:06"
     },
     {
         "date": "2024/10/30",
@@ -1323,7 +1258,7 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.bloomberg.com/news/articles/2024-10-30/brookfield-buys-2-3-billion-stake-in-orsted-offshore-wind-farms",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:45:53"
+        "entry_last_updated": "2025-01-02 14:21:59"
     },
     {
         "date": "2024/10/30",
@@ -1336,33 +1271,33 @@
         "technology_type": "Offshore Wind",
         "url": "https://esg-investing.com/2024/10/30/brookfield-acquires-2-3-billion-stake-in-uk-offshore-wind-farms-from-orsted/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:50:07"
+        "entry_last_updated": "2025-01-02 17:12:23"
     },
     {
         "date": "2024/10/30",
         "buyer": "Canadian Natural Resources Ltd",
         "seller": "BP",
-        "target": "Athabasca Oil Sands Project",
-        "capacity": "2-GW",
+        "target": "BP Wind Energy",
+        "capacity": "Not found",
         "acquisition_price": "US$6.5 billion",
-        "stake_percentage": "50%",
+        "stake_percentage": "20%",
         "technology_type": "Offshore Wind",
         "url": "https://esgreview.net/2024/10/30/major-moves/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 11:15:41"
+        "entry_last_updated": "2025-01-02 20:58:05"
     },
     {
         "date": "2024/10/24",
         "buyer": "Equinor",
         "seller": "Not found",
-        "target": "Ørsted",
+        "target": "offshore wind assets in operation",
         "capacity": "Not found",
-        "acquisition_price": "9.8 percent stake in Ørsted",
-        "stake_percentage": "9.8 percent",
+        "acquisition_price": "Not found",
+        "stake_percentage": "9.8%",
         "technology_type": "Offshore Wind",
         "url": "https://www.equinor.com/news/equinor-third-quarter-2024-results",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:34:05"
+        "entry_last_updated": "2025-01-02 20:07:48"
     },
     {
         "date": "2024/10/23",
@@ -1370,25 +1305,25 @@
         "seller": "Dominion Energy",
         "target": "Coastal Virginia Offshore Wind project",
         "capacity": "Not found",
-        "acquisition_price": "$3 billion",
+        "acquisition_price": "$2.6 billion",
         "stake_percentage": "50%",
         "technology_type": "Offshore Wind",
         "url": "https://virginiabusiness.com/dominion-completes-2-6b-sale-of-stake-in-offshore-wind-farm/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:22:51"
+        "entry_last_updated": "2025-01-02 12:55:13"
     },
     {
         "date": "2024/10/17",
         "buyer": "Clearvise AG",
         "seller": "ClearPARTNERS Cooperation Partners",
-        "target": "70 MW approved capacity",
+        "target": "French photovoltaic project with more than 70 MW approved capacity",
         "capacity": "70 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "70%.",
         "technology_type": "Solar PV",
         "url": "https://www.energyglobal.com/solar/17102024/clearvise-acquires-stake-in-french-photovoltaic-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:39:35"
+        "entry_last_updated": "2025-01-02 14:16:29"
     },
     {
         "date": "2024/10/14",
@@ -1396,12 +1331,12 @@
         "seller": "Sustainability Economics",
         "target": "three solar projects",
         "capacity": "1 GW",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Onshore Wind",
+        "acquisition_price": "INR 506.62 crore",
+        "stake_percentage": "26%",
+        "technology_type": "Other",
         "url": "https://sustainabilityeconomicsnews.com/clean-energy/ox2-secures-first-onshore-wind-power-project-in-australia-with-1-gw-capacity/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:43:46"
+        "entry_last_updated": "2025-01-02 20:19:59"
     },
     {
         "date": "2024/10/08",
@@ -1414,7 +1349,7 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/zelestra-acquires-majority-stake-german-ipp-east-energy/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:21:55"
+        "entry_last_updated": "2025-01-02 15:47:22"
     },
     {
         "date": "2024/10/07",
@@ -1427,7 +1362,7 @@
         "technology_type": "Other",
         "url": "https://www.rwe.com/en/press/rwe-offshore-wind-gmbh/2024-10-07-rwe-und-totalenergies-realisieren-gemeinsam-4-gw-offshore-wind/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 22:47:00"
+        "entry_last_updated": "2025-01-02 12:20:44"
     },
     {
         "date": "2024/10/07",
@@ -1440,13 +1375,13 @@
         "technology_type": "Other",
         "url": "https://www.bloomberg.com/news/articles/2024-10-07/orsted-shares-jump-after-equinor-buys-stake-in-wind-giant",
         "entry_added": "2024-12-31 16:30:01",
-        "entry_last_updated": "2024-12-31 16:30:01"
+        "entry_last_updated": "2025-01-03 02:11:44"
     },
     {
         "date": "2024/10/03",
         "buyer": "Recurrent Energy",
         "seller": "APS",
-        "target": null,
+        "target": "",
         "capacity": "1,000 megawatts",
         "acquisition_price": "$1.2 billion",
         "stake_percentage": "1.2 billion",
@@ -1466,20 +1401,20 @@
         "technology_type": "Other",
         "url": "https://mercomcapital.com/macquarie-acquire-stake-developer-de-shaw-renewable-investments/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:00:22"
+        "entry_last_updated": "2025-01-02 18:00:30"
     },
     {
         "date": "2024/09/30",
         "buyer": "NextEnergy Capital",
         "seller": "IB Vogt",
-        "target": "110MW solar PV project in Central Spain",
+        "target": "long-term power purchase agreement",
         "capacity": "110MW",
         "acquisition_price": "$745 million",
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://solarquarter.com/2024/09/30/nextpowerv-acquires-110mw-solar-project-in-spain-with-esg-focus/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 07:22:52"
+        "entry_last_updated": "2025-01-02 18:56:57"
     },
     {
         "date": "2024/09/27",
@@ -1492,12 +1427,12 @@
         "technology_type": "Other",
         "url": "https://renewablewatch.in/2024/09/27/grenergy-acquires-1-gw-projects-from-repsol-and-ibereolica/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 10:19:49"
+        "entry_last_updated": "2025-01-02 20:46:38"
     },
     {
         "date": "2024/09/25",
-        "buyer": "Australian investment bank Macquarie Asset Management",
-        "seller": "Macquarie Group",
+        "buyer": "Macquarie Asset Management",
+        "seller": "Not found",
         "target": "US independent power producer",
         "capacity": "10 gigawatts",
         "acquisition_price": "US$1.73 billion",
@@ -1505,7 +1440,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/macquarie-group-to-acquire-stake-in-d-e-shaw-renewable-investments-for-us1-73-billion/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:21:01"
+        "entry_last_updated": "2025-01-02 13:53:16"
     },
     {
         "date": "2024/09/19",
@@ -1518,7 +1453,7 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.power-technology.com/news/eneos-renewable-energy-norway/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:42:49"
     },
     {
         "date": "2024/09/18",
@@ -1531,33 +1466,33 @@
         "technology_type": "Other",
         "url": "https://solarquarter.com/2024/09/18/sembcorp-signs-agreement-to-acquire-30-stake-in-senoko-energy/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:17:17"
     },
     {
         "date": "2024/09/06",
         "buyer": "SunVest Solar",
         "seller": "an independent developer",
         "target": "60MW Illinois Community Solar Portfolio",
-        "capacity": "Not found",
+        "capacity": "60MW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://solarquarter.com/2024/09/06/sunvest-solar-acquires-60mw-illinois-community-solar-portfolio/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:01:17"
     },
     {
         "date": "2024/08/30",
         "buyer": "Clean Power Alliance",
         "seller": "Not found",
-        "target": "300 MW Desert Quartzite Solar+Storage Project",
+        "target": "Desert Quartzite Solar+Storage Project",
         "capacity": "300 MW",
         "acquisition_price": "20-year power purchase agreement",
         "stake_percentage": "50%",
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2024/08/30/psei-acquires-50-stake-in-300-mw-desert-quartzite-solarstorage-project-in-california-partnering-with-edf-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:06:06"
+        "entry_last_updated": "2025-01-02 15:33:30"
     },
     {
         "date": "2024/08/22",
@@ -1570,7 +1505,7 @@
         "technology_type": "Solar PV",
         "url": "https://mb.com.ph/2024/08/22/m-gen-subsidiary-inks-investment-agreement-with-singaporean-firm-for-450-mw-solar-project",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 15:05:33"
+        "entry_last_updated": "2025-01-02 22:34:57"
     },
     {
         "date": "2024/08/22",
@@ -1583,25 +1518,25 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.power-technology.com/news/qair-majority-stake-gsc/",
         "entry_added": "2024-12-31 16:39:43",
-        "entry_last_updated": "2024-12-31 16:39:43"
+        "entry_last_updated": "2025-01-03 02:16:56"
     },
     {
         "date": "2024/07/24",
         "buyer": "TotalEnergies",
         "seller": "RWE",
         "target": "the first system integration project in the Dutch market",
-        "capacity": "Not found",
+        "capacity": "15-MW",
         "acquisition_price": "Not found",
         "stake_percentage": "50%",
         "technology_type": "Other",
         "url": "https://greentechlead.com/wind/totalenergies-acquires-50-stake-in-oranjewind-offshore-wind-project-from-rwe-47314",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 02:00:26"
     },
     {
         "date": "2024/07/16",
         "buyer": "Cox Energy",
-        "seller": "Eskom",
+        "seller": "Not found",
         "target": "Khi Solar One solar thermal plant",
         "capacity": "18-MW",
         "acquisition_price": "Not found",
@@ -1609,20 +1544,20 @@
         "technology_type": "Solar PV",
         "url": "https://renewableenergyafrica.news/cox-energy-acquires-majority-stake-in-south-africas-khi-solar-one-plant/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:50:01"
+        "entry_last_updated": "2025-01-02 17:50:43"
     },
     {
         "date": "2024/06/20",
         "buyer": "GIFT Power Company Limited",
         "seller": "Not found",
         "target": "Green Term-Ahead Market  and Green Day-Ahead Market",
-        "capacity": "Not found",
+        "capacity": "432 kW",
         "acquisition_price": "₹4.50 per unit",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2024/06/20/gerc-evaluates-petition-for-revised-renewable-purchase-obligation-targets-for-fy-2022-23/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:18:02"
     },
     {
         "date": "2024/06/10",
@@ -1635,33 +1570,33 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/2024/06/10/omv-petrom-acquires-stake-in-130-mw-of-solar-in-romania/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:25:20"
+        "entry_last_updated": "2025-01-02 15:50:26"
     },
     {
         "date": "2024/05/31",
         "buyer": "Mercom Capital Group",
         "seller": "Not found",
         "target": "Leon County, Texas",
-        "capacity": "Not found",
+        "capacity": "257 MW",
         "acquisition_price": "$72 million",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/ferrovial-acquires-257-mw-solar-project-in-texas/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:57:46"
     },
     {
         "date": "2024/05/30",
         "buyer": "KKR",
         "seller": "Not found",
-        "target": "RWE will acquire Summit and Riverstone’s equity shares",
+        "target": "R3 Renewables LLC ownership group",
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "25%",
         "technology_type": "Other",
         "url": "https://pv-magazine-usa.com/2024/05/30/apricus-generation-buys-stake-in-nexus-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:31:26"
+        "entry_last_updated": "2025-01-02 14:08:58"
     },
     {
         "date": "2024/05/30",
@@ -1674,12 +1609,12 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine-australia.com/2024/05/30/brookfield-reaches-majority-stake-agreement-in-neoen/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 11:22:00"
+        "entry_last_updated": "2025-01-02 21:02:00"
     },
     {
         "date": "2024/05/01",
-        "buyer": "a U.S. based fund",
-        "seller": "Alternus",
+        "buyer": "U.S. based fund",
+        "seller": "U.S. based fund",
         "target": "non-core projects located in Poland and the Netherlands",
         "capacity": "80 MWp",
         "acquisition_price": "approximately $60 million",
@@ -1687,7 +1622,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.globenewswire.com/news-release/2024/05/01/2873260/0/en/Alternus-Clean-Energy-set-to-Acquire-Over-80-MWp-of-Operating-Solar-PV-across-eight-states-in-the-U-S.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:11:41"
+        "entry_last_updated": "2025-01-02 18:06:03"
     },
     {
         "date": "2024/05/01",
@@ -1695,12 +1630,12 @@
         "seller": "Alternus",
         "target": "non-core projects located in Poland and the Netherlands",
         "capacity": "80 MWp",
-        "acquisition_price": "approximately $60 million",
+        "acquisition_price": "$60 million",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://portal.sina.com.hk/finance/finance-globenewswire/globenewswire/2024/05/01/828693/alternus-clean-energy-set-to-acquire-over-80-mwp-of-operating-solar-pv-across-eight-states-in-the-u-s/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 10:09:19"
+        "entry_added": "2025-01-02 20:34:13",
+        "entry_last_updated": "2025-01-02 20:34:13"
     },
     {
         "date": "2024/04/18",
@@ -1713,7 +1648,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/2024/04/18/stellantis-acquires-49-5-stake-in-argentine-solar-company/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:43:00"
+        "entry_last_updated": "2025-01-02 22:02:03"
     },
     {
         "date": "2024/04/09",
@@ -1721,30 +1656,30 @@
         "seller": "Commerz Real",
         "target": "each with a capacity of 50 MW",
         "capacity": "50 MW",
-        "acquisition_price": "late 2024 or early 2025",
+        "acquisition_price": "Not found",
         "stake_percentage": "100%",
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2024/04/09/everwood-capital-acquires-150-mw-photovoltaic-portfolio-in-carmona-spain/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:32:09"
+        "entry_last_updated": "2025-01-02 21:56:52"
     },
     {
         "date": "2024/04/08",
         "buyer": "Dalmia Cement",
         "seller": "O2 Renewable Energy V Private Limited",
-        "target": "wind energy",
-        "capacity": "Not found",
+        "target": "wind power as a captive consumer for a capacity up to 11 MW",
+        "capacity": "11 MW",
         "acquisition_price": "Rs 7.80 crore",
         "stake_percentage": "18.13%",
         "technology_type": "Other",
         "url": "https://www.saurenergy.com/solar-energy-news/dalmia-cement-to-acquire-18-stake-in-wind-power-firm-o2-renewable-energy",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:53:18"
     },
     {
         "date": "2024/03/29",
         "buyer": "Serena",
-        "seller": "EDF Renewables",
+        "seller": "Serena",
         "target": "Pirapora Solar Complex and the Ventos da Bahia Wind Farm",
         "capacity": "Not found",
         "acquisition_price": "R$ 2 billion",
@@ -1752,20 +1687,20 @@
         "technology_type": "Solar PV",
         "url": "https://edf-re.com.br/en/2024/03/28/edf-renewables-and-serena-conclude-the-share-swap-in-renewable-projects/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:27:53"
+        "entry_last_updated": "2025-01-02 20:00:48"
     },
     {
         "date": "2024/03/22",
         "buyer": "KKR",
         "seller": "Not found",
-        "target": "large utility-scale solar and solar-plus-storage",
+        "target": "Avantus",
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2024/03/22/kkrs-solar-ambitions-soar-majority-stake-acquisition-in-avantus-sets-stage-for-renewable-energy-revolution/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:00:13"
+        "entry_last_updated": "2025-01-02 15:28:13"
     },
     {
         "date": "2024/03/21",
@@ -1778,7 +1713,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/kkr-acquires-majority-stake-in-avantus/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:07:33"
+        "entry_last_updated": "2025-01-02 16:08:32"
     },
     {
         "date": "2024/03/20",
@@ -1791,33 +1726,20 @@
         "technology_type": "Other",
         "url": "https://solarquarter.com/2024/03/20/masdar-acquires-50-stake-in-terra-gen-power-holdings-ii-llc/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:40:49"
-    },
-    {
-        "date": "2024/03/14",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "957 MW",
-        "capacity": "957 MW",
-        "acquisition_price": "USD 300 million",
-        "stake_percentage": "80%",
-        "technology_type": "Onshore Wind",
-        "url": "https://windinsider.com/2024/03/14/orsted-sells-stake-in-four-us-onshore-wind-farms-to-stonepeak/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:29:36"
+        "entry_last_updated": "2025-01-02 17:40:11"
     },
     {
         "date": "2024/03/14",
         "buyer": "BlackRock",
         "seller": "Excelsior Energy Capital",
-        "target": "distributed generation",
+        "target": "operational solar and battery storage distributed generation projects",
         "capacity": "89 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/2024/03/14/blackrock-acquires-solar-storage-assets-from-excelsior-energy-capital/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:07:57"
+        "entry_last_updated": "2025-01-02 21:38:22"
     },
     {
         "date": "2024/03/13",
@@ -1830,7 +1752,7 @@
         "technology_type": "Other",
         "url": "https://www.esgtoday.com/stonepeak-acquires-300-million-stake-in-wind-energy-portfolio-from-orsted/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 07:10:54"
+        "entry_last_updated": "2025-01-02 18:46:32"
     },
     {
         "date": "2024/03/13",
@@ -1842,34 +1764,34 @@
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_added": "2025-01-03 02:09:16",
+        "entry_last_updated": "2025-01-03 02:09:16"
     },
     {
         "date": "2024/03/12",
         "buyer": "Standard Solar",
         "seller": "MHG Solar",
         "target": "18.5 MW solar project portfolio in Vermont",
-        "capacity": "Not found",
+        "capacity": "18.5 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/standard-solar-acquires-solar-project-portfolio-vermont/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:23:09"
     },
     {
         "date": "2024/03/12",
         "buyer": "BlackRock",
         "seller": "Excelsior Energy Capital",
-        "target": "distributed generation projects with a total capacity of 89 MWDC",
-        "capacity": "Not found",
+        "target": "operational solar and battery storage distributed generation projects",
+        "capacity": "89 MWDC",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://www.esgtoday.com/blackrock-acquires-38-project-solar-and-storage-portfolio-from-excelsior-energy-capital/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_added": "2025-01-02 23:58:40",
+        "entry_last_updated": "2025-01-02 23:58:40"
     },
     {
         "date": "2024/02/14",
@@ -1882,20 +1804,20 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.power-technology.com/news/eversource-sell-stake-offshore-wind/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 22:53:10"
+        "entry_last_updated": "2025-01-02 12:26:51"
     },
     {
         "date": "2024/01/30",
         "buyer": "Not found",
-        "seller": "Not found",
+        "seller": "Equinor",
         "target": "Beacon Wind 1 and 2",
         "capacity": "2.5 gigawatts",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Offshore Wind",
         "url": "https://windinsider.com/2024/01/30/bp-assumes-complete-ownership-of-beacon-wind-offshore-projects-in-the-us-transfers-empire-wind-stake-to-equinor/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:09:23"
+        "entry_added": "2025-01-02 14:41:51",
+        "entry_last_updated": "2025-01-02 14:41:51"
     },
     {
         "date": "2024/01/29",
@@ -1908,12 +1830,12 @@
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2024/01/29/mgen-renewable-energy-successfully-completes-p15-9-billion-acquisition-secures-controlling-stake-in-spnec/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 02:02:56"
+        "entry_last_updated": "2025-01-02 15:30:42"
     },
     {
         "date": "2024/01/25",
         "buyer": "Ørsted",
-        "seller": "Not found",
+        "seller": "Eversource",
         "target": "924 MW offshore wind farm",
         "capacity": "924 MW",
         "acquisition_price": "Not found",
@@ -1921,7 +1843,7 @@
         "technology_type": "Offshore Wind",
         "url": "https://www.power-technology.com/news/orsted-eversource-sunrise-wind/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 01:04:13"
+        "entry_last_updated": "2025-01-02 14:36:28"
     },
     {
         "date": "2024/01/19",
@@ -1934,7 +1856,7 @@
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2024/01/19/plenitude-enters-agreement-with-edpr-for-acquisition-of-three-272-mwac-photovoltaic-parks-in-the-u-s/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:57:12"
+        "entry_last_updated": "2025-01-02 21:32:55"
     },
     {
         "date": "2024/01/16",
@@ -1947,7 +1869,7 @@
         "technology_type": "Other",
         "url": "https://solarquarter.com/2024/01/16/reliance-industries-rec-solar-holdings-divests-rec-norway-stake-to-elkem-asa-for-usd-22-million/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:00:09"
+        "entry_last_updated": "2025-01-02 17:26:01"
     },
     {
         "date": "2024/01/11",
@@ -1960,7 +1882,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/eni-plenitude-acquires-272mw-of-under-construction-us-solar-projects/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:24:20"
+        "entry_last_updated": "2025-01-02 13:58:31"
     },
     {
         "date": "2024/01/09",
@@ -1973,33 +1895,33 @@
         "technology_type": "Other",
         "url": "https://www.esgtoday.com/engie-acquires-majority-stake-in-194-mw-spanish-wind-portfolio-from-mirova/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:29:48"
+        "entry_last_updated": "2025-01-02 18:23:15"
     },
     {
         "date": "2023/12/26",
         "buyer": "Mercom Capital Group",
-        "seller": "Mercom Capital Group",
-        "target": "long-term power purchase agreement",
-        "capacity": "Not found",
+        "seller": "Hive Energy",
+        "target": "ready-to-build Pozzolo solar project in Italy",
+        "capacity": "30 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "75%",
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/encavis-acquires-30-mw-solar-project-italy/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:21:08"
     },
     {
         "date": "2023/11/29",
         "buyer": "TotalEnergies",
         "seller": "Not found",
         "target": "UK-Moroccan solar-wind interconnector",
-        "capacity": "Not found",
+        "capacity": "11.5 GW",
         "acquisition_price": "($25 million)",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/2023/11/29/totalenergies-acquires-majority-stake-in-uk-moroccan-solar-wind-interconnector/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:11:16"
     },
     {
         "date": "2023/11/14",
@@ -2012,89 +1934,63 @@
         "technology_type": "Other",
         "url": "https://www.pv-magazine.com/2023/11/14/armor-group-acquires-20-stake-in-french-solar-panel-maker-holosolis/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:21:23"
+        "entry_last_updated": "2025-01-02 21:48:24"
     },
     {
         "date": "2023/09/12",
         "buyer": "SUSI Partners",
         "seller": "SUSI Partners",
-        "target": "ready-to-build",
+        "target": "onshore wind farms",
         "capacity": "20 MWp",
         "acquisition_price": "99 WM portfolio of onshore wind farms geographically diversified across Germany",
         "stake_percentage": "25%",
         "technology_type": "Solar PV",
         "url": "https://www.susi-partners.com/en/2023/09/susi-partners-to-acquire-sizeable-ci-solar-pv-projects-in-southeast-asia/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:04:54"
-    },
-    {
-        "date": "2023/09/11",
-        "buyer": "Alternergy Holdings Corp",
-        "seller": "Shell Overseas Investment B.V.",
-        "target": "Tablas Strait 1, 2, and 3 Offshore Wind Projects",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Offshore Wind",
-        "url": "https://business.inquirer.net/489250/alternergy-now-owns-3-offshore-wind-projects",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 16:05:37"
     },
     {
         "date": "2023/09/11",
         "buyer": "a subsidiary of Australian asset manager First Sentier Investors",
         "seller": "Not found",
         "target": "independent power producer",
-        "capacity": "Not found",
+        "capacity": "1.9GW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/igneo-acquires-majority-stake-in-soltage-aims-to-grow-solar-portfolio-to-1-9gw/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:47:28"
     },
     {
         "date": "2023/09/07",
         "buyer": "Keppel MET Renewables",
         "seller": "Not found",
-        "target": "38MWp",
+        "target": "38MWp solar project",
         "capacity": "38MWp",
         "acquisition_price": "Not found",
         "stake_percentage": "100%",
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/keppel-met-renewables-acquires-38mwp-solar-project-in-italy/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 00:27:10"
-    },
-    {
-        "date": "2023/08/03",
-        "buyer": "Matrix Renewables",
-        "seller": "rPlus Energies",
-        "target": "Pleasant Valley Solar Project",
-        "capacity": "Not found",
-        "acquisition_price": "$17 billion",
-        "stake_percentage": "Not found",
-        "technology_type": "Solar PV",
-        "url": "https://idahobusinessreview.com/2023/08/03/energy-platform-acquires-solar-project-that-will-power-meta-center-in-kuna/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:19:25"
+        "entry_last_updated": "2025-01-02 14:03:18"
     },
     {
         "date": "2023/06/30",
         "buyer": "Mercom Capital Group",
         "seller": "OCI Solar Power",
-        "target": "Stillhouse solar project",
+        "target": "ready-to-build 20.39 MW Noto solar project in Sicily",
         "capacity": "284 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/matrix-renewables-acquires-solar-project-texas/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 10:11:39"
+        "entry_last_updated": "2025-01-02 20:37:07"
     },
     {
         "date": "2023/05/30",
-        "buyer": "MORE, a subsidiary of Greek energy company Motor Oil",
+        "buyer": "Motor Oil",
         "seller": "Ellaktor Construction Group",
         "target": "16 new PV projects",
         "capacity": "1.9GW",
@@ -2103,7 +1999,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/motor-oil-renewables-arm-acquires-1-9gw-of-solar-projects-in-greece/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:18:19"
+        "entry_last_updated": "2025-01-02 16:15:20"
     },
     {
         "date": "2023/03/29",
@@ -2116,7 +2012,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine-australia.com/2023/03/29/wa-government-utility-acquires-50-stake-in-local-solar-business/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:35:59"
+        "entry_last_updated": "2025-01-02 22:12:50"
     },
     {
         "date": "2023/03/22",
@@ -2129,7 +2025,7 @@
         "technology_type": "Other",
         "url": "https://solarquarter.com/2023/03/22/kkr-to-sell-remaining-stake-in-global-renewable-developer-x-elio-to-brookfield-renewable/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:10:27"
+        "entry_last_updated": "2025-01-02 21:18:42"
     },
     {
         "date": "2023/03/21",
@@ -2142,59 +2038,59 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/brookfield-renewable-has-full-control-of-x-elio-after-acquisition-from-partner/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 12:54:28"
+        "entry_last_updated": "2025-01-02 21:30:16"
     },
     {
         "date": "2023/03/16",
         "buyer": "Equinor",
         "seller": "Scatec Innovation AS",
-        "target": "Scatec ASA",
+        "target": "Ørsted A/S",
         "capacity": "Not found",
         "acquisition_price": "NOK 305 million",
         "stake_percentage": "3.1 percent of the shares and votes",
         "technology_type": "Other",
         "url": "https://www.equinor.com/news/20230316-increases-ownership-scatec",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:51:49"
+        "entry_last_updated": "2025-01-02 22:25:12"
     },
     {
         "date": "2022/12/08",
         "buyer": "Partners Group",
         "seller": "Not found",
         "target": "a leading renewable energy and decarbonization solutions platform in India",
-        "capacity": "Not found",
+        "capacity": "3 GW",
         "acquisition_price": "USD 400 Million",
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://solarquarter.com/2022/12/08/partners-group-to-buy-majority-stake-in-sunsure-energy-for-usd-400-million/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 22:48:51"
     },
     {
         "date": "2022/11/10",
         "buyer": "Not found",
         "seller": "Not found",
-        "target": "Sweden’s largest solar farms",
-        "capacity": "Not found",
+        "target": "three solar parks with a total capacity of 90MW",
+        "capacity": "90MW",
         "acquisition_price": "US$150 million",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/dif-acquires-majority-stake-in-swedish-solar-developer-alight/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:26:56"
     },
     {
         "date": "2022/10/06",
         "buyer": "EDP Renewables",
         "seller": "its Founders",
-        "target": "Not found",
+        "target": "Kronos Solar Projects",
         "capacity": "155 GW",
         "acquisition_price": "250 million euros",
         "stake_percentage": "70%",
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/edpr-completes-acquisition-of-german-solar-developer-kronos/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:08:34"
+        "entry_last_updated": "2025-01-02 19:48:27"
     },
     {
         "date": "2022/09/29",
@@ -2207,7 +2103,7 @@
         "technology_type": "Solar PV",
         "url": "https://solarbuildermag.com/news/standard-solar-acquired-by-brookfield-renewable/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 07:25:03"
+        "entry_last_updated": "2025-01-02 18:59:43"
     },
     {
         "date": "2022/09/06",
@@ -2220,38 +2116,38 @@
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2022/09/06/reliance-industries-to-acquire-majority-stake-in-sensehawk/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:03:12"
     },
     {
         "date": "2022/09/05",
         "buyer": "Mercom Capital Group",
         "seller": "Terra Solar",
         "target": "Ballinrea solar PV project in Ireland",
-        "capacity": "Not found",
+        "capacity": "65 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "100%",
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/orsted-acquires-65-mw-solar-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:35:39"
     },
     {
         "date": "2022/08/16",
         "buyer": "Actis",
         "seller": "Sprng Energy",
-        "target": "distributed solar C&I platform",
+        "target": "Yellow Door Energy",
         "capacity": "Not found",
         "acquisition_price": "US$6 billion",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2022/08/16/actis-acquires-majority-stake-in-southeast-asia-renewables-platform-levanta-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:27:03"
+        "entry_last_updated": "2025-01-02 18:20:09"
     },
     {
         "date": "2022/08/01",
         "buyer": "EDP Renováveis",
-        "seller": "Not found",
+        "seller": "the sellers",
         "target": "Kronos Solar Projects",
         "capacity": "155 GW",
         "acquisition_price": "250 million euros",
@@ -2259,7 +2155,7 @@
         "technology_type": "Other",
         "url": "https://www.power-technology.com/news/edpr-kronos-solar/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-01 23:43:11"
+        "entry_last_updated": "2025-01-02 13:14:59"
     },
     {
         "date": "2022/08/01",
@@ -2272,20 +2168,20 @@
         "technology_type": "Other",
         "url": "https://renewablewatch.in/2022/08/01/torrent-power-acquires-100-per-cent-stake-in-wind-two-renergy/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 07:01:31"
+        "entry_last_updated": "2025-01-02 18:42:59"
     },
     {
         "date": "2022/07/25",
         "buyer": "Ørsted",
-        "seller": "Ostwind",
-        "target": "Ostwind",
+        "seller": "Not found",
+        "target": "Not found",
         "capacity": "Not found",
         "acquisition_price": "€689 million",
         "stake_percentage": "100%",
         "technology_type": "Onshore Wind",
         "url": "https://www.pv-tech.org/orsted-acquires-european-onshore-renewables-developer-ostwind/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_added": "2025-01-02 23:39:24",
+        "entry_last_updated": "2025-01-02 23:39:24"
     },
     {
         "date": "2022/07/20",
@@ -2293,12 +2189,12 @@
         "seller": "OSTWIND AG",
         "target": "OSTWIND",
         "capacity": "Not found",
-        "acquisition_price": "EUR 689 million",
-        "stake_percentage": "100 %",
+        "acquisition_price": "€689 million",
+        "stake_percentage": "100%",
         "technology_type": "Onshore Wind",
         "url": "https://orsted.com/en/company-announcement-list/2022/07/2022072254591",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:00:29"
     },
     {
         "date": "2022/06/21",
@@ -2311,33 +2207,33 @@
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/octopus-renewables-acquires-solar-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:23:58"
+        "entry_last_updated": "2025-01-02 18:16:52"
     },
     {
         "date": "2022/06/13",
         "buyer": "BTE Renewables",
         "seller": "Sonnedix",
         "target": "75 MW Prieska solar project",
-        "capacity": "Not found",
+        "capacity": "75 MW",
         "acquisition_price": "ZAR 1.3 billion",
         "stake_percentage": "60%",
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2022/06/13/bte-renewables-acquires-sonnedixs-south-african-solar-operations/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 02:04:08"
     },
     {
         "date": "2022/05/26",
         "buyer": "Mercom Capital Group",
         "seller": "NorthRenew Energy",
         "target": "Eads solar and wind project",
-        "capacity": "Not found",
+        "capacity": "1 GW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/bluearth-acquires-eads-solar-wind-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:46:51"
     },
     {
         "date": "2022/04/07",
@@ -2350,7 +2246,7 @@
         "technology_type": "Solar PV",
         "url": "https://renewablewatch.in/2022/04/07/mitsui-acquires-49-per-cent-stake-in-renews-rtc-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:10:17"
+        "entry_last_updated": "2025-01-02 16:54:08"
     },
     {
         "date": "2022/04/06",
@@ -2363,7 +2259,7 @@
         "technology_type": "Solar PV",
         "url": "https://mercomcapital.com/soltech-energy-acquires-stake-solar-company-365-energie/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:28:52"
     },
     {
         "date": "2022/03/31",
@@ -2376,33 +2272,33 @@
         "technology_type": "Solar PV",
         "url": "https://www.solarpowerportal.co.uk/macquarie_acquires_stake_in_uk_solar_developer_green_island_power/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:20:26"
+        "entry_last_updated": "2025-01-02 16:18:10"
     },
     {
         "date": "2022/02/25",
         "buyer": "Magnora ASA",
         "seller": "African Green Ventures",
-        "target": "large-scale solar photovoltaic and onshore wind",
-        "capacity": "Not found",
+        "target": "land lease option agreements",
+        "capacity": "800 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "92%",
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2022/02/25/norwegian-renewable-company-buys-majority-stake-in-african-green-ventures/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:09:09"
     },
     {
         "date": "2022/02/17",
         "buyer": "Schneider Electric",
         "seller": "Not found",
-        "target": "solar",
+        "target": "Schneider Electric acquires solar marketplace EnergySage",
         "capacity": "Not found",
         "acquisition_price": "2022",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.solarpowerworldonline.com/2022/02/schneider-electric-acquires-solar-marketplace-energysage/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:54:39"
     },
     {
         "date": "2022/02/11",
@@ -2415,7 +2311,7 @@
         "technology_type": "Solar PV",
         "url": "https://solarquarter.com/2022/02/11/acciona-energia-acquires-the-red-tailed-hawk-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:42:17"
+        "entry_last_updated": "2025-01-02 17:42:32"
     },
     {
         "date": "2022/01/27",
@@ -2428,7 +2324,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/green-arrow-capital-buys-500mw-of-solar-pv-projects-in-spain/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:58:27"
+        "entry_last_updated": "2025-01-02 17:57:48"
     },
     {
         "date": "2022/01/12",
@@ -2441,20 +2337,20 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/kgal-acquires-50-stake-in-renewables-developer-gp-joule-projects-eyes-expansion-in-germany/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:14:53"
+        "entry_last_updated": "2025-01-02 16:11:40"
     },
     {
         "date": "2021/11/30",
         "buyer": "NextEra Energy Partners",
         "seller": "NextEra Energy",
-        "target": "solar, storage, and wind",
+        "target": "solar, storage, and wind assets",
         "capacity": "Not found",
         "acquisition_price": "$850 million",
         "stake_percentage": "50%",
         "technology_type": "Solar PV",
         "url": "https://pv-magazine-usa.com/2021/11/30/nextera-energy-sells-a-stake-in-a-renewable-energy-portfolio-for-849-million/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:48:20"
+        "entry_last_updated": "2025-01-02 18:34:57"
     },
     {
         "date": "2021/11/22",
@@ -2467,20 +2363,20 @@
         "technology_type": "Other",
         "url": "https://www.kaohooninternational.com/markets/495839",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:46:33"
+        "entry_last_updated": "2025-01-02 22:19:57"
     },
     {
         "date": "2021/11/19",
         "buyer": "Engie",
         "seller": "Abengoa",
-        "target": "Xina Solar One",
-        "capacity": "Not found",
-        "acquisition_price": "20-year Power Purchase Agreement",
+        "target": "100 MW concentrated solar power  plant",
+        "capacity": "1,320MW",
+        "acquisition_price": "Not found",
         "stake_percentage": "40%",
         "technology_type": "Other",
         "url": "https://solarquarter.com/2021/11/19/engie-acquires-stake-in-xina-solar-one-csp-plant-in-south-africa/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:00:22"
     },
     {
         "date": "2021/11/09",
@@ -2493,7 +2389,7 @@
         "technology_type": "Other",
         "url": "https://solarquarter.com/2021/11/09/siemens-acquires-26-stake-in-sunsole-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:02:22"
+        "entry_last_updated": "2025-01-02 17:28:56"
     },
     {
         "date": "2021/11/02",
@@ -2506,33 +2402,33 @@
         "technology_type": "Offshore Wind",
         "url": "https://brazilenergyinsight.com/2021/11/02/eni-acquires-20-stake-in-third-phase-of-worlds-largest-offshore-wind-project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 07:16:24"
+        "entry_last_updated": "2025-01-02 18:51:26"
     },
     {
         "date": "2021/10/25",
-        "buyer": "NextEra Energy Partners",
+        "buyer": "Nextera Energy Partners",
         "seller": "a subsidiary of NextEra Energy Resources",
-        "target": "712MW of solar and 115MW of battery storage",
+        "target": "seven wind farms",
         "capacity": "2.5GW",
         "acquisition_price": "US$849 million",
         "stake_percentage": "50%",
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/nextera-energy-partners-acquires-50-of-2-5gw-renewable-portfolio/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:56:05"
+        "entry_last_updated": "2025-01-02 17:22:05"
     },
     {
         "date": "2021/10/25",
         "buyer": "NextEra Energy Partners",
-        "seller": "NextEra Energy Resources",
+        "seller": "NextEra Energy Partners",
         "target": "seven wind farms",
         "capacity": "2.5GW",
         "acquisition_price": "$849m",
         "stake_percentage": "50%",
         "technology_type": "Other",
         "url": "https://www.power-technology.com/news/nextera-energy-partners/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:57:44"
+        "entry_added": "2025-01-02 20:30:30",
+        "entry_last_updated": "2025-01-02 20:30:30"
     },
     {
         "date": "2021/10/20",
@@ -2540,12 +2436,12 @@
         "seller": "Infrastructure Investments Fund",
         "target": "Falck Renewables",
         "capacity": "50MW",
-        "acquisition_price": "Q1 2022",
+        "acquisition_price": "Not found",
         "stake_percentage": "60%",
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/jp-morgan-fund-buys-majority-stake-in-falck-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:35:14"
+        "entry_last_updated": "2025-01-02 17:04:37"
     },
     {
         "date": "2021/09/15",
@@ -2558,7 +2454,7 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/munich-re-acquires-50-stake-in-two-edf-projects-in-california/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:11:27"
+        "entry_last_updated": "2025-01-02 21:41:26"
     },
     {
         "date": "2021/09/08",
@@ -2571,7 +2467,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.globenewswire.com/news-release/2021/09/08/2293433/0/en/Greenbacker-Renewable-Energy-Company-Acquires-41-MW-Solar-Asset-in-Michigan.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:42:28"
+        "entry_last_updated": "2025-01-02 18:29:14"
     },
     {
         "date": "2021/07/06",
@@ -2584,85 +2480,85 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/applus-acquires-solar-consulting-and-engineering-firm-enertis/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:02:16"
+        "entry_last_updated": "2025-01-02 19:44:34"
     },
     {
         "date": "2021/06/28",
         "buyer": "Mainstream Renewable Power",
         "seller": "Not found",
         "target": "405MW portfolio",
-        "capacity": "Not found",
+        "capacity": "405MW",
         "acquisition_price": "Not found",
         "stake_percentage": "80%",
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/mainstream-renewable-power-boosts-vietnamese-portfolio-with-new-acquisition/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:48:56"
     },
     {
         "date": "2021/05/05",
         "buyer": "Greenbacker Renewable Energy Company LLC",
         "seller": "Broad Reach Power",
         "target": "773.5 MW of utility-scale and distributed solar facilities",
-        "capacity": "Not found",
+        "capacity": "80 MWac",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.globenewswire.com/en/news-release/2021/05/05/2223626/0/en/Greenbacker-Renewable-Energy-Company-LLC-Acquires-Solar-Project-Totaling-80-MWac.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:04:02"
     },
     {
         "date": "2020/12/21",
         "buyer": "Iberdrola",
         "seller": "Macquarie’s Green Investment Group",
-        "target": "seven",
+        "target": "seven-project pipeline",
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "50%",
         "technology_type": "Offshore Wind",
         "url": "https://www.power-technology.com/news/iberdrola-offshore-wind-sea-wind/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 04:32:29"
+        "entry_last_updated": "2025-01-02 17:01:42"
     },
     {
         "date": "2020/11/11",
         "buyer": "BlackRock",
         "seller": "GE Renewable Energy",
-        "target": "Distributed Solar Development",
+        "target": "BlackRock Real Assets has acquired remaining 20% stake in Distributed Solar Development",
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "20%",
         "technology_type": "Solar PV",
         "url": "https://www.power-technology.com/news/blackrock-acquires-stake-in-us-firm-distributed-solar-development/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:30:25"
+        "entry_last_updated": "2025-01-02 22:07:43"
     },
     {
         "date": "2020/08/04",
         "buyer": "Ayana Renewable",
         "seller": "First Solar",
         "target": "40 MW PV projects",
-        "capacity": "Not found",
+        "capacity": "40 MW",
         "acquisition_price": "US$ 330 million",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine-india.com/2020/08/04/ayana-renewable-acquires-40-mw-pv-projects-from-first-solar/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:42:41"
     },
     {
         "date": "2020/06/02",
         "buyer": "Riverstone Holdings",
         "seller": "Riverstone Holdings LLC",
         "target": "two solar photovoltaic  plants in Mexico",
-        "capacity": "Not found",
+        "capacity": "144MW",
         "acquisition_price": "€1.35 billion",
         "stake_percentage": "80%",
         "technology_type": "Solar PV",
         "url": "https://www.lavca.org/riverstone-to-acquire-80-stake-in-two-mexican-solar-power-plants-from-opdenergy/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:04:48"
     },
     {
         "date": "2020/03/23",
@@ -2675,20 +2571,20 @@
         "technology_type": "Solar PV",
         "url": "https://www.power-technology.com/news/cip-to-purchase-stake-in-440mwdc-solar-pv-project-in-texas/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:47:47"
+        "entry_last_updated": "2025-01-02 20:25:06"
     },
     {
         "date": "2020/03/16",
         "buyer": "Greenbacker Renewable Energy Company LLC",
         "seller": "Palmer Management Corporation  and other parties",
-        "target": "15.3 MW to-be-constructed wind project",
-        "capacity": "Not found",
+        "target": "15.3MW To-Be-Constructed Wind Project",
+        "capacity": "15.3 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://www.globenewswire.com/news-release/2020/03/16/2001123/0/en/Greenbacker-Renewable-Energy-Company-LLC-Acquires-15-3MW-To-Be-Constructed-Wind-Project.html",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_added": "2025-01-03 00:29:31",
+        "entry_last_updated": "2025-01-03 00:29:31"
     },
     {
         "date": "2019/12/16",
@@ -2701,46 +2597,46 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/shell-buys-49-stake-in-esco-pacific/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:34:57"
+        "entry_last_updated": "2025-01-02 21:59:26"
     },
     {
         "date": "2019/12/16",
         "buyer": "Gulf Pacific Power",
         "seller": "GE Energy Financial Services and Enel Green Power North America",
         "target": "Gulf Plains Wind",
-        "capacity": "Not found",
+        "capacity": "350 MW",
         "acquisition_price": "Not found",
         "stake_percentage": "80%",
         "technology_type": "Other",
         "url": "https://www.globenewswire.com/news-release/2019/12/16/1961121/0/en/Gulf-Pacific-Power-Acquires-Majority-Stake-in-Wind-Portfolio.html",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_added": "2025-01-03 00:45:14",
+        "entry_last_updated": "2025-01-03 00:45:14"
     },
     {
         "date": "2019/12/11",
         "buyer": "Greenbacker Renewable Energy Corporation",
         "seller": "Prism Power Partners",
         "target": "Electric City Solar  a 19 MW construction-ready solar project in Michigan",
-        "capacity": "Not found",
+        "capacity": "19 MW",
         "acquisition_price": "25-year municipal offtake agreement",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.globenewswire.com/news-release/2019/12/11/1959344/0/en/Greenbacker-Acquires-19MW-Solar-Project-from-Prism-Power-Partners.html",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:53:01"
     },
     {
         "date": "2019/09/12",
         "buyer": "Allianz Global",
         "seller": "Not found",
         "target": "Lotus Solar Farm",
-        "capacity": "Not found",
+        "capacity": "150 MW",
         "acquisition_price": "$210 million",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://pv-magazine-usa.com/2019/09/12/allianz-global-acquires-lotus-solar-farm-174-power-global-closes-on-210-million-solar-financing-pvmb-9-12-19/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 22:37:24"
     },
     {
         "date": "2019/06/12",
@@ -2753,7 +2649,7 @@
         "technology_type": "Solar PV",
         "url": "https://solarbusinesshub.com/2019/06/12/enbw-acquires-french-solar-and-wind-developer-valeco/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 09:41:46"
+        "entry_last_updated": "2025-01-02 20:14:53"
     },
     {
         "date": "2018/12/19",
@@ -2766,7 +2662,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/2018/12/19/shell-acquires-49-stake-in-singapores-cleantech-solar/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:49:11"
     },
     {
         "date": "2018/12/10",
@@ -2779,7 +2675,7 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/competition-commission-approves-kepco-stake-in-solar-philippines-unit/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 05:44:04"
+        "entry_last_updated": "2025-01-02 17:45:08"
     },
     {
         "date": "2018/11/19",
@@ -2792,46 +2688,46 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/equinor-acquires-10-stake-in-scatec-solar/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 02:58:05"
+        "entry_last_updated": "2025-01-02 15:59:42"
     },
     {
         "date": "2018/11/07",
         "buyer": "Ullico",
         "seller": "AIMCo and AES",
-        "target": "wind and solar farms",
+        "target": "renewable energy portfolio",
         "capacity": "1.3GW",
         "acquisition_price": "Not found",
         "stake_percentage": "48%",
         "technology_type": "Solar PV",
         "url": "https://www.nsenergybusiness.com/deals/ullico-1-3gw-us-renewable-projects/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 14:27:55"
+        "entry_last_updated": "2025-01-02 22:05:31"
     },
     {
         "date": "2018/09/05",
         "buyer": "NextEra Energy Partners",
-        "seller": "NextEra Energy Resources, LLC",
+        "seller": "NextEra Energy Partners",
         "target": "1,388-MW portfolio",
-        "capacity": "Not found",
+        "capacity": "1,388 megawatts",
         "acquisition_price": "$1.275 billion",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.investor.nexteraenergypartners.com/news-and-events/news-releases/2018/09-05-2018-123028058",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:25:31"
     },
     {
         "date": "2018/08/06",
         "buyer": "Valmont",
         "seller": "Not found",
-        "target": "Not found",
+        "target": "Valmont acquires 75% stake in Italian tracker provider Convert",
         "capacity": "Not found",
         "acquisition_price": "Not found",
         "stake_percentage": "75%",
         "technology_type": "Other",
         "url": "https://www.pv-magazine.com/2018/08/06/valmont-acquires-75-stake-in-italian-tracker-provider-convert/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:31:01"
     },
     {
         "date": "2018/06/22",
@@ -2844,7 +2740,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.nsenergybusiness.com/deals/pggm-to-acquire-50-stake-in-558mw-wind-and-solar-projects-from-edf-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 11:26:29"
+        "entry_last_updated": "2025-01-02 21:05:13"
     },
     {
         "date": "2018/05/23",
@@ -2857,7 +2753,7 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/cdpq-acquires-majority-stake-in-invenergy-renewables/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 03:00:17"
+        "entry_last_updated": "2025-01-02 16:02:29"
     },
     {
         "date": "2018/01/15",
@@ -2870,7 +2766,7 @@
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/shell-acquires-interest-in-silicon-ranch-corporation/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:24:12"
+        "entry_last_updated": "2025-01-02 21:51:00"
     },
     {
         "date": "2017/12/25",
@@ -2883,7 +2779,7 @@
         "technology_type": "Other",
         "url": "https://www.pv-magazine.com/2017/12/25/2017-the-pv-year-in-review/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 13:16:42"
+        "entry_last_updated": "2025-01-02 21:46:17"
     },
     {
         "date": "2017/12/15",
@@ -2896,7 +2792,7 @@
         "technology_type": "Other",
         "url": "https://www.pv-magazine.com/2017/12/15/bp-returns-to-pv-with-200-million-investment-in-lightsource/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:06:45"
     },
     {
         "date": "2017/09/21",
@@ -2909,20 +2805,7 @@
         "technology_type": "Other",
         "url": "https://www.pv-magazine.com/2017/09/21/total-to-acquire-23-stake-in-french-developer-eren-re/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
-    },
-    {
-        "date": "2017/04/26",
-        "buyer": "Pattern Energy Group Inc",
-        "seller": "Riverstone",
-        "target": "Broadview Wind power facilities",
-        "capacity": "Not found",
-        "acquisition_price": "Not found",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://patternenergy.com/pattern-energy-acquires-324-mw-broadview-wind-in-new-mexico-as-it-begins-operations/",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:27:34"
     },
     {
         "date": "2017/03/23",
@@ -2935,20 +2818,20 @@
         "technology_type": "Other",
         "url": "https://www.pv-magazine.com/2017/03/23/ac-energy-acquires-renewable-energy-development-platform/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 00:50:00"
     },
     {
         "date": "2017/03/14",
         "buyer": "Innogy",
         "seller": "Not found",
-        "target": "Not found",
+        "target": "Innogy acquired German developer Belectric and its huge solar power plant portfolio",
         "capacity": "Not found",
         "acquisition_price": "€18.6 billion",
         "stake_percentage": "95%",
         "technology_type": "Solar PV",
         "url": "https://www.pv-magazine.com/2017/03/14/engie-plans-to-acquire-rwes-renewable-energy-unit-innogy-reports/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 07:18:12"
+        "entry_last_updated": "2025-01-02 18:53:55"
     },
     {
         "date": "2017/03/08",
@@ -2961,58 +2844,58 @@
         "technology_type": "Other",
         "url": "https://www.pv-tech.org/brookfield-to-gain-controlling-stake-in-terraform-power-acquire-terraform-g/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 15:00:18"
+        "entry_last_updated": "2025-01-02 22:31:45"
     },
     {
         "date": "2015/09/03",
         "buyer": "Southern California Edison Company",
-        "seller": "First Solar",
+        "seller": "Not found",
         "target": "Desert Stateline solar project",
         "capacity": "300MW",
-        "acquisition_price": "20-year power purchase agreement",
+        "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Solar PV",
         "url": "https://www.nsenergybusiness.com/news/newssouthern-power-acquires-stake-in-300mw-desert-stateline-solar-project-in-california-030915-4662060/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:53:00"
+        "entry_last_updated": "2025-01-02 18:40:18"
     },
     {
         "date": "2015/09/01",
         "buyer": "Duke Energy Renewables",
         "seller": "Sumitomo Corporation of Americas",
-        "target": "Mesquite Creek Wind power project",
-        "capacity": "Not found",
+        "target": "over 1.2GW",
+        "capacity": "1.2GW",
         "acquisition_price": "Not found",
         "stake_percentage": "50%",
         "technology_type": "Other",
         "url": "https://www.power-technology.com/news/newsduke-energy-acquires-50-of-texas-wind-project-4661518/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-02 23:56:19"
     },
     {
         "date": "2015/06/19",
         "buyer": "NRG Yield",
         "seller": "GE Energy Financial Services",
         "target": "Desert Sunlight",
-        "capacity": "Not found",
+        "capacity": "550MW",
         "acquisition_price": "US$285 million",
         "stake_percentage": "25%",
         "technology_type": "Solar PV",
         "url": "https://www.pv-tech.org/nrg_yield_acquires_25_stake_in_desert_sunlight_project/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-30 22:31:36"
+        "entry_last_updated": "2025-01-03 01:52:09"
     },
     {
         "date": "2014/07/15",
         "buyer": "EDF Renewable Energy",
         "seller": "Orion Energy Group LLC and Vision Energy LLC",
-        "target": "Orion Energy Group LLC and Vision Energy LLC",
+        "target": "Pilot Hill Wind Project",
         "capacity": "175-megawatt",
         "acquisition_price": "20-year",
         "stake_percentage": "96%",
         "technology_type": "Other",
         "url": "https://www.sdbj.com/technology/edf-renewable-acquires-96-stake-wind-prjoject-serv/",
         "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2024-12-31 06:44:37"
+        "entry_last_updated": "2025-01-02 18:31:55"
     }
 ]
