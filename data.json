@@ -1339,6 +1339,45 @@
         "entry_last_updated": "2025-01-02 22:25:12"
     },
     {
+        "date": "2022/08/26",
+        "buyer": "MET Group",
+        "seller": "TOREN Spolka Akcyjna",
+        "target": "greenfield photovoltaic project in western Poland",
+        "capacity": "60 MWp",
+        "acquisition_price": "26 August 2022",
+        "stake_percentage": "100 percent",
+        "technology_type": "Solar PV",
+        "url": "https://www.renewable-energy-industry.com/news/world/article-6162-market-entry-in-poland-met-group-acquires-100-percent-stake-in-60-mwp-pv-project",
+        "entry_added": "2025-01-04 23:11:19",
+        "entry_last_updated": "2025-01-04 23:11:19"
+    },
+    {
+        "date": "2022/04/27",
+        "buyer": "TotalEnergies",
+        "seller": "Core Solar, LLC",
+        "target": "utility-scale solar and energy storage",
+        "capacity": "4 GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://totalenergies.com/media/news/press-releases/united-states-totalenergies-adds-4-gw-its-renewable-energy-portfolio",
+        "entry_added": "2025-01-04 23:12:47",
+        "entry_last_updated": "2025-01-04 23:12:47"
+    },
+    {
+        "date": "2022/04/27",
+        "buyer": "TotalEnergies",
+        "seller": "SunChase Power",
+        "target": "4GW solar and storage portfolio",
+        "capacity": "4GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.esgtoday.com/totalenergies-acquires-core-solar-ramping-us-renewables-portfolio-to-over-10-gw/",
+        "entry_added": "2025-01-04 23:15:16",
+        "entry_last_updated": "2025-01-04 23:15:16"
+    },
+    {
         "date": "2022-12-29",
         "buyer": "EDF Renewables",
         "seller": "EDF Renewables North America",
