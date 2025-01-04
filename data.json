@@ -52,19 +52,6 @@
         "entry_last_updated": "2025-01-02 23:00:29"
     },
     {
-        "date": "Not found",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four US onshore wind farms with a total capacity of 957 MW",
-        "capacity": "957 MW",
-        "acquisition_price": "USD 300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-05 00:25:48",
-        "entry_last_updated": "2025-01-05 00:25:48"
-    },
-    {
         "date": "2025/01/03",
         "buyer": "Juwia",
         "seller": "Juwia",
@@ -284,6 +271,19 @@
         "url": "https://solarquarter.com/2024/06/08/omv-petrom-acquires-50-stake-in-130-mw-photovoltaic-projects-in-partnership-with-renovatio/",
         "entry_added": "2025-01-04 23:55:15",
         "entry_last_updated": "2025-01-04 23:55:15"
+    },
+    {
+        "date": "2024/03/13",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four US onshore wind farms",
+        "capacity": "957 MW",
+        "acquisition_price": "USD 300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
+        "entry_added": "2025-01-05 00:29:41",
+        "entry_last_updated": "2025-01-05 00:29:41"
     },
     {
         "date": "2024/01/03",
@@ -1194,6 +1194,19 @@
         "url": "https://assetmanagement.apg.nl/publications/apg-boosts-commitment-to-energy-transition-with-major-us-solar-investment/",
         "entry_added": "2025-01-04 22:58:58",
         "entry_last_updated": "2025-01-04 22:58:58"
+    },
+    {
+        "date": "2023/08/08",
+        "buyer": "Matrix Renewables",
+        "seller": "rPlus Energies",
+        "target": "Pleasant Valley Solar Project",
+        "capacity": "261 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://mercomcapital.com/matrix-renewables-acquires-controlling-stake-solar-project/",
+        "entry_added": "2025-01-05 00:31:53",
+        "entry_last_updated": "2025-01-05 00:31:53"
     },
     {
         "date": "2023/05/24",
