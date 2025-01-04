@@ -1131,6 +1131,19 @@
         "entry_last_updated": "2025-01-04 23:24:43"
     },
     {
+        "date": "2023/05/23",
+        "buyer": "Not found",
+        "seller": "Not found",
+        "target": "Encore Renewable Energy",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://www.renewableenergymagazine.com/panorama/susi-partners-makes-investment-in-u-s-20230523",
+        "entry_added": "2025-01-04 23:32:39",
+        "entry_last_updated": "2025-01-04 23:32:39"
+    },
+    {
         "date": "2023-12-29",
         "buyer": "Gentari",
         "seller": "Northland and Japan-based Mitsui & Co",
@@ -1766,6 +1779,32 @@
         "url": "https://www.pv-tech.org/kgal-acquires-50-stake-in-renewables-developer-gp-joule-projects-eyes-expansion-in-germany/",
         "entry_added": "2024-12-30 22:31:36",
         "entry_last_updated": "2025-01-02 16:11:40"
+    },
+    {
+        "date": "2021/10/11",
+        "buyer": "Reliance New Energy Solar Limited",
+        "seller": "Not found",
+        "target": "Not found",
+        "capacity": "Not found",
+        "acquisition_price": "US$10 billion",
+        "stake_percentage": "100%",
+        "technology_type": "Solar PV",
+        "url": "https://www.pv-magazine.com/2021/10/11/reliance-industries-acquires-100-stake-in-rec-group/",
+        "entry_added": "2025-01-04 23:34:09",
+        "entry_last_updated": "2025-01-04 23:34:09"
+    },
+    {
+        "date": "2021/10/11",
+        "buyer": "Reliance New Energy Solar Ltd",
+        "seller": "Shapoorji Pallonji and Company Private Limited",
+        "target": "Sterling and Wilson Solar",
+        "capacity": "Not found",
+        "acquisition_price": "INR 1,098.75 crore",
+        "stake_percentage": "40%",
+        "technology_type": "Solar PV",
+        "url": "https://www.pv-magazine.com/2021/10/11/reliance-industries-new-energy-arm-to-acquire-40-stake-in-sterling-and-wilson-solar/",
+        "entry_added": "2025-01-04 23:37:17",
+        "entry_last_updated": "2025-01-04 23:37:17"
     },
     {
         "date": "2021/06/28",
