@@ -52,6 +52,19 @@
         "entry_last_updated": "2025-01-02 23:00:29"
     },
     {
+        "date": "Not found",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four US onshore wind farms with a total capacity of 957 MW",
+        "capacity": "957 MW",
+        "acquisition_price": "USD 300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
+        "entry_added": "2025-01-04 23:07:57",
+        "entry_last_updated": "2025-01-04 23:07:57"
+    },
+    {
         "date": "2025/01/03",
         "buyer": "Juwia",
         "seller": "Juwia",
@@ -141,6 +154,19 @@
         "url": "https://www.globenewswire.com/news-release/2024/12/17/2998219/0/en/Copenhagen-Infrastructure-Partners-acquires-majority-stake-in-ABO-Energy-s-wind-and-hydrogen-project.html",
         "entry_added": "2025-01-04 22:55:05",
         "entry_last_updated": "2025-01-04 22:55:05"
+    },
+    {
+        "date": "2024/12/17",
+        "buyer": "Copenhagen Infrastructure Partners",
+        "seller": "ABO Energy",
+        "target": "Toqlukuti’k Wind & Hydrogen",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://financialpost.com/globe-newswire/copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energys-wind-and-hydrogen-project",
+        "entry_added": "2025-01-04 23:03:30",
+        "entry_last_updated": "2025-01-04 23:03:30"
     },
     {
         "date": "2024/10/07",
@@ -949,19 +975,6 @@
         "entry_last_updated": "2025-01-02 18:46:32"
     },
     {
-        "date": "2024-03-13",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four US onshore wind farms with a total capacity of 957 MW",
-        "capacity": "957 MW",
-        "acquisition_price": "USD 300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
-        "entry_added": "2025-01-03 02:09:16",
-        "entry_last_updated": "2025-01-03 02:09:16"
-    },
-    {
         "date": "2024-03-12",
         "buyer": "Standard Solar",
         "seller": "MHG Solar",
@@ -1077,6 +1090,19 @@
         "url": "https://www.esgtoday.com/engie-acquires-majority-stake-in-194-mw-spanish-wind-portfolio-from-mirova/",
         "entry_added": "2024-12-30 22:31:36",
         "entry_last_updated": "2025-01-02 18:23:15"
+    },
+    {
+        "date": "2023/11/15",
+        "buyer": "Global Atlantic Financial Group",
+        "seller": "Global Atlantic Financial Group",
+        "target": "renewable energy assets",
+        "capacity": "600 net megawatts",
+        "acquisition_price": "Not found",
+        "stake_percentage": "33%",
+        "technology_type": "Solar PV",
+        "url": "https://assetmanagement.apg.nl/publications/apg-boosts-commitment-to-energy-transition-with-major-us-solar-investment/",
+        "entry_added": "2025-01-04 22:58:58",
+        "entry_last_updated": "2025-01-04 22:58:58"
     },
     {
         "date": "2023-12-29",
