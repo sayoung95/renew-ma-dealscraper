@@ -61,8 +61,8 @@
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-05 00:12:50",
-        "entry_last_updated": "2025-01-05 00:12:50"
+        "entry_added": "2025-01-05 00:25:48",
+        "entry_last_updated": "2025-01-05 00:25:48"
     },
     {
         "date": "2025/01/03",
@@ -193,6 +193,32 @@
         "url": "https://financialpost.com/globe-newswire/copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energys-wind-and-hydrogen-project",
         "entry_added": "2025-01-04 23:03:30",
         "entry_last_updated": "2025-01-04 23:03:30"
+    },
+    {
+        "date": "2024/12/09",
+        "buyer": "Not found",
+        "seller": "Not found",
+        "target": "Not found",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-and-jera-joining-forces-to-create-top-tier-global-offshore-wind-business.html",
+        "entry_added": "2025-01-05 00:20:24",
+        "entry_last_updated": "2025-01-05 00:20:24"
+    },
+    {
+        "date": "2024/12/04",
+        "buyer": "Apollo",
+        "seller": "TotalEnergies",
+        "target": "2 GW Texas Solar and Storage Portfolio",
+        "capacity": "2 GW",
+        "acquisition_price": "$550 Million",
+        "stake_percentage": "50%",
+        "technology_type": "Other",
+        "url": "https://www.esgtoday.com/apollo-acquires-50-stake-in-2-gw-texas-solar-and-storage-portfolio-from-totalenergies-for-550-million/",
+        "entry_added": "2025-01-05 00:17:14",
+        "entry_last_updated": "2025-01-05 00:17:14"
     },
     {
         "date": "2024/10/07",
