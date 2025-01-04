@@ -52,19 +52,6 @@
         "entry_last_updated": "2025-01-02 23:00:29"
     },
     {
-        "date": "Not found",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four US onshore wind farms with a total capacity of 957 MW",
-        "capacity": "957 MW",
-        "acquisition_price": "USD 300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-04 23:45:10",
-        "entry_last_updated": "2025-01-04 23:45:10"
-    },
-    {
         "date": "2025/01/03",
         "buyer": "Juwia",
         "seller": "Juwia",
@@ -219,6 +206,32 @@
         "url": "https://www.globalhydrogenreview.com/hydrogen/24072024/totalenergies-acquires-stake-in-oranjewind-offshore-wind-farm-in-view-of-supplying-green-hydrogen-to-refineries/",
         "entry_added": "2025-01-04 22:46:47",
         "entry_last_updated": "2025-01-04 22:46:47"
+    },
+    {
+        "date": "2024/07/03",
+        "buyer": "Capital Dynamics",
+        "seller": "Capital Dynamics",
+        "target": "three construction-ready solar PV assets in Andalucía, Spain",
+        "capacity": "157 MWp",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.capdyn.com/news/capital-dynamics-acquires-c317mwp-of-solar-pv-portfolios-in-spain-and-enters-pp/",
+        "entry_added": "2025-01-04 23:48:43",
+        "entry_last_updated": "2025-01-04 23:48:43"
+    },
+    {
+        "date": "2024/03/13",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four US onshore wind farms with a total capacity of 957 MW",
+        "capacity": "957 MW",
+        "acquisition_price": "USD 300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
+        "entry_added": "2025-01-04 23:51:05",
+        "entry_last_updated": "2025-01-04 23:51:05"
     },
     {
         "date": "2024/01/03",
