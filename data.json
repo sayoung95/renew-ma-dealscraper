@@ -55,14 +55,14 @@
         "date": "Not found",
         "buyer": "Stonepeak",
         "seller": "Ørsted",
-        "target": "four US onshore wind farms",
+        "target": "four US onshore wind farms with a total capacity of 957 MW",
         "capacity": "957 MW",
         "acquisition_price": "USD 300 million",
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-05 00:00:29",
-        "entry_last_updated": "2025-01-05 00:00:29"
+        "entry_added": "2025-01-05 00:12:50",
+        "entry_last_updated": "2025-01-05 00:12:50"
     },
     {
         "date": "2025/01/03",
@@ -206,6 +206,19 @@
         "url": "https://www.energyconnects.com/news/renewables/2024/october/totalenergies-joins-rwe-in-two-offshore-wind-projects/",
         "entry_added": "2025-01-04 22:53:14",
         "entry_last_updated": "2025-01-04 22:53:14"
+    },
+    {
+        "date": "2024/09/09",
+        "buyer": "Actis",
+        "seller": "Manila Electric  and its subsidiary, Solar Philippines New Energy",
+        "target": "Terra Solar PV and BESS project",
+        "capacity": "3.5GW",
+        "acquisition_price": "$600m",
+        "stake_percentage": "40%",
+        "technology_type": "Other",
+        "url": "https://www.nsenergybusiness.com/deals/actis-to-buy-40-stake-in-terra-solar-pv-and-bess-project-from-meralco-for-600m/",
+        "entry_added": "2025-01-05 00:07:43",
+        "entry_last_updated": "2025-01-05 00:07:43"
     },
     {
         "date": "2024/07/24",
