@@ -117,6 +117,19 @@
         "entry_last_updated": "2025-01-04 23:21:38"
     },
     {
+        "date": "2025/01/03",
+        "buyer": "Not found",
+        "seller": "Not found",
+        "target": "Hive Ethical Project Development Ltd",
+        "capacity": "Not found",
+        "acquisition_price": "£15 million",
+        "stake_percentage": "50%",
+        "technology_type": "Other",
+        "url": "https://list.solar/news/greg-skinner/",
+        "entry_added": "2025-01-05 10:07:18",
+        "entry_last_updated": "2025-01-05 10:07:18"
+    },
+    {
         "date": "2025/01/02",
         "buyer": "Bharti Airtel",
         "seller": "Power Grid Corp",
@@ -245,6 +258,19 @@
         "url": "https://www.tradingview.com/news/reuters.com,2024-12-17:newsml_GNE9kvwG5:0-copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energy-s-wind-and-hydrogen-project/",
         "entry_added": "2025-01-05 10:00:34",
         "entry_last_updated": "2025-01-05 10:00:34"
+    },
+    {
+        "date": "2024/12/17",
+        "buyer": "Copenhagen Infrastructure Partners",
+        "seller": "ABO Energy",
+        "target": "Toqlukuti’k Wind & Hydrogen",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://financialpost.com/globe-newswire/copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energys-wind-and-hydrogen-project",
+        "entry_added": "2025-01-05 10:12:04",
+        "entry_last_updated": "2025-01-05 10:12:04"
     },
     {
         "date": "2024/12/09",
@@ -414,6 +440,19 @@
         "url": "https://www.power-technology.com/news/orsted-stake-us-wind-stonepeak/",
         "entry_added": "2025-01-05 03:16:18",
         "entry_last_updated": "2025-01-05 03:16:18"
+    },
+    {
+        "date": "2024/03/13",
+        "buyer": "Stonepeak",
+        "seller": "Not found",
+        "target": "four US onshore wind farms",
+        "capacity": "957 MW",
+        "acquisition_price": "$300 million",
+        "stake_percentage": "80%",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.pevcjournal.com/stonepeak-acquires-orsteds-wind-farms-12320",
+        "entry_added": "2025-01-05 10:10:18",
+        "entry_last_updated": "2025-01-05 10:10:18"
     },
     {
         "date": "2024/02/14",
