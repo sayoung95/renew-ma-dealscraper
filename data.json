@@ -52,6 +52,19 @@
         "entry_last_updated": "2025-01-02 23:00:29"
     },
     {
+        "date": "Not found",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four US onshore wind farms",
+        "capacity": "957 MW",
+        "acquisition_price": "USD 300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
+        "entry_added": "2025-01-05 02:11:57",
+        "entry_last_updated": "2025-01-05 02:11:57"
+    },
+    {
         "date": "2025/01/03",
         "buyer": "Juwia",
         "seller": "Juwia",
@@ -284,19 +297,6 @@
         "url": "https://www.esgtoday.com/kkr-acquires-majority-stake-in-u-s-renewables-developer-avantus/",
         "entry_added": "2025-01-05 01:36:46",
         "entry_last_updated": "2025-01-05 01:36:46"
-    },
-    {
-        "date": "2024/03/13",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four US onshore wind farms with a total capacity of 957 MW",
-        "capacity": "957 MW",
-        "acquisition_price": "USD 300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
-        "entry_added": "2025-01-05 01:58:47",
-        "entry_last_updated": "2025-01-05 01:58:47"
     },
     {
         "date": "2024/01/03",
