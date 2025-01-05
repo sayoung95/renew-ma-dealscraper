@@ -169,6 +169,19 @@
         "entry_last_updated": "2025-01-05 04:28:28"
     },
     {
+        "date": "2024/12/22",
+        "buyer": "Sino American Silicon Products Inc",
+        "seller": "ABO Energy",
+        "target": "Toqlukuti’k Wind & Hydrogen",
+        "capacity": "250 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://www.linkedin.com/company/copenhagen-infrastructure-partners-k-s",
+        "entry_added": "2025-01-05 05:13:54",
+        "entry_last_updated": "2025-01-05 05:13:54"
+    },
+    {
         "date": "2024/12/17",
         "buyer": "Copenhagen Infrastructure Partners",
         "seller": "ABO Energy",
@@ -323,6 +336,19 @@
         "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
         "entry_added": "2025-01-05 04:51:34",
         "entry_last_updated": "2025-01-05 04:51:34"
+    },
+    {
+        "date": "2024/03/13",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four U.S. onshore wind farms",
+        "capacity": "957 MW",
+        "acquisition_price": "$300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.windpowerengineering.com/orsted-sells-majority-stake-in-onshore-wind-portfolio/",
+        "entry_added": "2025-01-05 05:16:26",
+        "entry_last_updated": "2025-01-05 05:16:26"
     },
     {
         "date": "2024/01/03",
