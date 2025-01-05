@@ -312,6 +312,19 @@
         "entry_last_updated": "2025-01-05 07:49:55"
     },
     {
+        "date": "2024/10/30",
+        "buyer": "Brookfield , its institutional partners and its listed affiliate Brookfield Renewable",
+        "seller": "Not found",
+        "target": "operational U.K. offshore wind farms",
+        "capacity": "3.5 GW",
+        "acquisition_price": "$2.3 billion",
+        "stake_percentage": "12.45%",
+        "technology_type": "Offshore Wind",
+        "url": "https://www.globenewswire.com/news-release/2024/10/30/2971539/0/en/index.html",
+        "entry_added": "2025-01-05 10:30:22",
+        "entry_last_updated": "2025-01-05 10:30:22"
+    },
+    {
         "date": "2024/10/08",
         "buyer": "Equinor",
         "seller": "Not found",
@@ -453,6 +466,19 @@
         "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
         "entry_added": "2025-01-05 10:16:41",
         "entry_last_updated": "2025-01-05 10:16:41"
+    },
+    {
+        "date": "2024/03/13",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "an equity ownership stake",
+        "capacity": "957 MW",
+        "acquisition_price": "$300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.windpowerengineering.com/orsted-sells-majority-stake-in-onshore-wind-portfolio/",
+        "entry_added": "2025-01-05 10:33:04",
+        "entry_last_updated": "2025-01-05 10:33:04"
     },
     {
         "date": "2024/02/14",
@@ -726,19 +752,6 @@
         "url": "https://www.philstar.com/business/2024/11/11/2399117/alternergy-buys-out-shells-stake-wind-projects",
         "entry_added": "2024-12-30 22:31:36",
         "entry_last_updated": "2025-01-02 19:38:49"
-    },
-    {
-        "date": "2024-10-30",
-        "buyer": "Brookfield, its institutional partners and its listed affiliate Brookfield Renewable",
-        "seller": "Orsted - North American Windpower",
-        "target": "U.K. offshore wind farms",
-        "capacity": "3.5 GW",
-        "acquisition_price": "$2.3 billion",
-        "stake_percentage": "12.45%",
-        "technology_type": "Offshore Wind",
-        "url": "https://nawindpower.com/brookfield-acquires-share-of-uk-offshore-wind-farms-from-orsted",
-        "entry_added": "2024-12-30 22:31:36",
-        "entry_last_updated": "2025-01-02 12:39:06"
     },
     {
         "date": "2024-10-30",
