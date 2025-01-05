@@ -260,6 +260,19 @@
         "entry_last_updated": "2025-01-05 00:17:14"
     },
     {
+        "date": "2024/12/04",
+        "buyer": "Apollo Funds",
+        "seller": "TotalEnergies",
+        "target": "Texas solar and battery energy storage system  portfolio",
+        "capacity": "2 GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "50%",
+        "technology_type": "Other",
+        "url": "https://www.apollo.com/insights-news/pressreleases/2024/12/apollo-funds-acquire-50-stake-in-2-gw-texas-solar-and-bess-portfolio-from-totalenergies-2991584",
+        "entry_added": "2025-01-05 07:49:55",
+        "entry_last_updated": "2025-01-05 07:49:55"
+    },
+    {
         "date": "2024/10/08",
         "buyer": "Equinor",
         "seller": "Not found",
