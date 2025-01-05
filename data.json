@@ -78,6 +78,19 @@
         "entry_last_updated": "2025-01-05 07:35:55"
     },
     {
+        "date": "Not found",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four US onshore wind farms with a total capacity of 957 MW",
+        "capacity": "957 MW",
+        "acquisition_price": "USD 300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
+        "entry_added": "2025-01-05 10:04:02",
+        "entry_last_updated": "2025-01-05 10:04:02"
+    },
+    {
         "date": "2025/01/03",
         "buyer": "Juwia",
         "seller": "Juwia",
@@ -229,9 +242,9 @@
         "acquisition_price": "Not found",
         "stake_percentage": "Not found",
         "technology_type": "Onshore Wind",
-        "url": "https://financialpost.com/globe-newswire/copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energys-wind-and-hydrogen-project",
-        "entry_added": "2025-01-04 23:03:30",
-        "entry_last_updated": "2025-01-04 23:03:30"
+        "url": "https://www.tradingview.com/news/reuters.com,2024-12-17:newsml_GNE9kvwG5:0-copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energy-s-wind-and-hydrogen-project/",
+        "entry_added": "2025-01-05 10:00:34",
+        "entry_last_updated": "2025-01-05 10:00:34"
     },
     {
         "date": "2024/12/09",
@@ -401,32 +414,6 @@
         "url": "https://www.power-technology.com/news/orsted-stake-us-wind-stonepeak/",
         "entry_added": "2025-01-05 03:16:18",
         "entry_last_updated": "2025-01-05 03:16:18"
-    },
-    {
-        "date": "2024/03/13",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four US onshore wind farms with a total capacity of 957 MW",
-        "capacity": "957 MW",
-        "acquisition_price": "USD 300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
-        "entry_added": "2025-01-05 09:43:41",
-        "entry_last_updated": "2025-01-05 09:43:41"
-    },
-    {
-        "date": "2024/03/13",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four U.S. onshore wind farms",
-        "capacity": "957 MW",
-        "acquisition_price": "$300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Onshore Wind",
-        "url": "https://www.windpowerengineering.com/orsted-sells-majority-stake-in-onshore-wind-portfolio/",
-        "entry_added": "2025-01-05 09:48:35",
-        "entry_last_updated": "2025-01-05 09:48:35"
     },
     {
         "date": "2024/02/14",
