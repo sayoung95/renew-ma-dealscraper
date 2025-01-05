@@ -52,19 +52,6 @@
         "entry_last_updated": "2025-01-02 23:00:29"
     },
     {
-        "date": "Not found",
-        "buyer": "Stonepeak",
-        "seller": "Ørsted",
-        "target": "four US onshore wind farms with a total capacity of 957 MW",
-        "capacity": "957 MW",
-        "acquisition_price": "USD 300 million",
-        "stake_percentage": "Not found",
-        "technology_type": "Other",
-        "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-05 03:21:02",
-        "entry_last_updated": "2025-01-05 03:21:02"
-    },
-    {
         "date": "2025/01/03",
         "buyer": "Juwia",
         "seller": "Juwia",
@@ -310,6 +297,19 @@
         "url": "https://www.power-technology.com/news/orsted-stake-us-wind-stonepeak/",
         "entry_added": "2025-01-05 03:16:18",
         "entry_last_updated": "2025-01-05 03:16:18"
+    },
+    {
+        "date": "2024/03/13",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four US onshore wind farms with a total capacity of 957 MW",
+        "capacity": "957 MW",
+        "acquisition_price": "USD 300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
+        "entry_added": "2025-01-05 03:25:15",
+        "entry_last_updated": "2025-01-05 03:25:15"
     },
     {
         "date": "2024/01/03",
