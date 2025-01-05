@@ -61,8 +61,8 @@
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-05 01:20:06",
-        "entry_last_updated": "2025-01-05 01:20:06"
+        "entry_added": "2025-01-05 01:32:25",
+        "entry_last_updated": "2025-01-05 01:32:25"
     },
     {
         "date": "2025/01/03",
@@ -1506,6 +1506,19 @@
         "url": "https://www.esgtoday.com/totalenergies-acquires-core-solar-ramping-us-renewables-portfolio-to-over-10-gw/",
         "entry_added": "2025-01-04 23:15:16",
         "entry_last_updated": "2025-01-04 23:15:16"
+    },
+    {
+        "date": "2022/03/07",
+        "buyer": "Macquarie-led consortium",
+        "seller": "Reden",
+        "target": "French solar developer",
+        "capacity": "Not found",
+        "acquisition_price": "€2.5 billion",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.pv-magazine.com/2022/03/07/macquarie-led-consortium-acquires-reden-solar/",
+        "entry_added": "2025-01-05 01:27:23",
+        "entry_last_updated": "2025-01-05 01:27:23"
     },
     {
         "date": "2022-12-29",
