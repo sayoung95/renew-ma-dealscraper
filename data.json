@@ -260,6 +260,19 @@
         "entry_last_updated": "2025-01-05 00:20:24"
     },
     {
+        "date": "2024/12/05",
+        "buyer": "Apollo",
+        "seller": "RWE",
+        "target": "three solar projects with a combined capacity of 1.7GW",
+        "capacity": "1.7GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "50%",
+        "technology_type": "Other",
+        "url": "https://finance.yahoo.com/news/apollo-acquires-50-stake-totalenergies-151121587.html",
+        "entry_added": "2025-01-05 08:32:23",
+        "entry_last_updated": "2025-01-05 08:32:23"
+    },
+    {
         "date": "2024/12/04",
         "buyer": "Apollo",
         "seller": "TotalEnergies",
