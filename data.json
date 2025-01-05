@@ -53,6 +53,19 @@
     },
     {
         "date": "Not found",
+        "buyer": "Not found",
+        "seller": "Ørsted",
+        "target": "three onshore wind farms and one solar farm",
+        "capacity": "Not found",
+        "acquisition_price": "USD 410 million",
+        "stake_percentage": "50 %",
+        "technology_type": "Other",
+        "url": "https://orsted.com/en/media/news/2022/10/20221021577711",
+        "entry_added": "2025-01-05 05:28:07",
+        "entry_last_updated": "2025-01-05 05:28:07"
+    },
+    {
+        "date": "Not found",
         "buyer": "Stonepeak",
         "seller": "Ørsted",
         "target": "four US onshore wind farms with a total capacity of 957 MW",
@@ -61,8 +74,8 @@
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-05 05:21:39",
-        "entry_last_updated": "2025-01-05 05:21:39"
+        "entry_added": "2025-01-05 05:36:33",
+        "entry_last_updated": "2025-01-05 05:36:33"
     },
     {
         "date": "2025/01/03",
