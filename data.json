@@ -1937,6 +1937,19 @@
         "entry_last_updated": "2025-01-04 22:37:08"
     },
     {
+        "date": "2021/06/01",
+        "buyer": "bp",
+        "seller": "7X Energy",
+        "target": "9GW",
+        "capacity": "9GW",
+        "acquisition_price": "$220 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-boosts-its-renewables-business-in-the-us-with-9gw-solar-acquisition-from-7x-energy.html",
+        "entry_added": "2025-01-05 02:36:18",
+        "entry_last_updated": "2025-01-05 02:36:18"
+    },
+    {
         "date": "2021/01/18",
         "buyer": "Total",
         "seller": "Adani Group",
