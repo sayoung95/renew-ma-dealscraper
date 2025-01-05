@@ -377,6 +377,19 @@
         "entry_last_updated": "2025-01-05 01:36:46"
     },
     {
+        "date": "2024/03/21",
+        "buyer": "KKR",
+        "seller": "Not found",
+        "target": "30 GW of solar and 94 GWh of battery storage",
+        "capacity": "30 GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://solarindustrymag.com/kkr-acquires-majority-stake-in-avantus",
+        "entry_added": "2025-01-05 08:13:48",
+        "entry_last_updated": "2025-01-05 08:13:48"
+    },
+    {
         "date": "2024/03/14",
         "buyer": "Stonepeak",
         "seller": "Ørsted",
