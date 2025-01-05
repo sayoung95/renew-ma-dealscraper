@@ -61,8 +61,8 @@
         "stake_percentage": "Not found",
         "technology_type": "Other",
         "url": "https://orsted.com/en/media/news/2024/03/oersted-divests-share-of-four-us-onshore-wind-farm-834511",
-        "entry_added": "2025-01-05 01:32:25",
-        "entry_last_updated": "2025-01-05 01:32:25"
+        "entry_added": "2025-01-05 01:42:10",
+        "entry_last_updated": "2025-01-05 01:42:10"
     },
     {
         "date": "2025/01/03",
@@ -284,6 +284,19 @@
         "url": "https://solarquarter.com/2024/06/08/omv-petrom-acquires-50-stake-in-130-mw-photovoltaic-projects-in-partnership-with-renovatio/",
         "entry_added": "2025-01-04 23:55:15",
         "entry_last_updated": "2025-01-04 23:55:15"
+    },
+    {
+        "date": "2024/03/21",
+        "buyer": "KKR",
+        "seller": "Not found",
+        "target": "U.S. solar and storage",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.esgtoday.com/kkr-acquires-majority-stake-in-u-s-renewables-developer-avantus/",
+        "entry_added": "2025-01-05 01:36:46",
+        "entry_last_updated": "2025-01-05 01:36:46"
     },
     {
         "date": "2024/01/03",
