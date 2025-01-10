@@ -195,6 +195,19 @@
         "entry_last_updated": "2025-01-10 10:05:03"
     },
     {
+        "date": "2025/01/06",
+        "buyer": "Renalfa IPP",
+        "seller": "Not found",
+        "target": "258MWac  solar photovoltaic",
+        "capacity": "258MWac",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://finance.yahoo.com/news/renalfa-ipp-acquires-258mwac-solar-152335432.html",
+        "entry_added": "2025-01-10 12:32:48",
+        "entry_last_updated": "2025-01-10 12:32:48"
+    },
+    {
         "date": "2025/01/03",
         "buyer": "Juwia",
         "seller": "Juwia",
