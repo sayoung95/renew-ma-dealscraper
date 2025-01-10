@@ -52,6 +52,45 @@
         "entry_last_updated": "2025-01-06 12:41:26"
     },
     {
+        "date": "2025/01/09",
+        "buyer": "LS Power",
+        "seller": "Algonquin Power",
+        "target": "44 solar PV and wind projects",
+        "capacity": "more than 3GW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.pv-tech.org/ls-power-acquires-algonquin-powers-renewable-energy-business/",
+        "entry_added": "2025-01-10 10:09:08",
+        "entry_last_updated": "2025-01-10 10:09:08"
+    },
+    {
+        "date": "2025/01/09",
+        "buyer": "Vårgrønn",
+        "seller": "EnBW",
+        "target": "Baltic 2 offshore wind farm",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "27.4%",
+        "technology_type": "Offshore Wind",
+        "url": "https://business-news-today.com/vargronn-closes-stake-acquisition-in-baltic-2-offshore-wind-farm-in-germany/",
+        "entry_added": "2025-01-10 10:21:55",
+        "entry_last_updated": "2025-01-10 10:21:55"
+    },
+    {
+        "date": "2025/01/09",
+        "buyer": "Faria Renewables",
+        "seller": "Ib vogt",
+        "target": "780MW Greek solar, storage portfolio",
+        "capacity": "780MW",
+        "acquisition_price": "€3.2 billion",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://www.pv-tech.org/ib-vogt-sells-780mw-greek-solar-storage-portfolio-to-faria-renewables/",
+        "entry_added": "2025-01-10 10:27:01",
+        "entry_last_updated": "2025-01-10 10:27:01"
+    },
+    {
         "date": "2025/01/07",
         "buyer": "Shell",
         "seller": "Shell",
@@ -115,6 +154,19 @@
         "url": "https://reglobal.org/category/tech-talk/",
         "entry_added": "2025-01-07 06:47:20",
         "entry_last_updated": "2025-01-07 06:47:20"
+    },
+    {
+        "date": "2025/01/06",
+        "buyer": "Renalfa IPP",
+        "seller": "Not found",
+        "target": "258MWac solar photovoltaic",
+        "capacity": "258MWac",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://www.power-technology.com/news/renalfa-ipp-acquires-solar-project/",
+        "entry_added": "2025-01-10 10:05:03",
+        "entry_last_updated": "2025-01-10 10:05:03"
     },
     {
         "date": "2025/01/03",
@@ -273,6 +325,19 @@
         "entry_last_updated": "2025-01-06 15:08:53"
     },
     {
+        "date": "2024/12/18",
+        "buyer": "Copenhagen Infrastructure Partners",
+        "seller": "ABO Energy",
+        "target": "Toqlukuti’k Wind & Hydrogen",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.nsenergybusiness.com/deals/cip-acquires-majority-stake-in-newfoundland-wind-and-hydrogen-project/",
+        "entry_added": "2025-01-10 10:24:08",
+        "entry_last_updated": "2025-01-10 10:24:08"
+    },
+    {
         "date": "2024/12/17",
         "buyer": "Copenhagen Infrastructure Partners",
         "seller": "ABO Energy",
@@ -284,6 +349,32 @@
         "url": "https://decarbonfuse.com/posts/copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energy-s-wind-and-hydrogen-project",
         "entry_added": "2025-01-05 13:13:30",
         "entry_last_updated": "2025-01-05 13:13:30"
+    },
+    {
+        "date": "2024/12/17",
+        "buyer": "Copenhagen Infrastructure Partners",
+        "seller": "ABO Energy",
+        "target": "Toqlukuti’k Wind & Hydrogen",
+        "capacity": "Not found",
+        "acquisition_price": "2024",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://energycentral.com/news/copenhagen-infrastructure-partners-acquires-majority-stake-abo-energy%E2%80%99s-wind-and-hydrogen",
+        "entry_added": "2025-01-10 10:02:57",
+        "entry_last_updated": "2025-01-10 10:02:57"
+    },
+    {
+        "date": "2024/12/17",
+        "buyer": "Copenhagen Infrastructure Partners",
+        "seller": "ABO Energy",
+        "target": "Toqlukuti’k Wind & Hydrogen",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.globenewswire.com/news-release/2024/12/17/2998219/0/en/Copenhagen-Infrastructure-Partners-acquires-majority-stake-in-ABO-Energy-s-wind-and-hydrogen-project.html",
+        "entry_added": "2025-01-10 10:29:36",
+        "entry_last_updated": "2025-01-10 10:29:36"
     },
     {
         "date": "2024/12/08",
@@ -466,6 +557,19 @@
         "url": "https://www.ess-news.com/2024/08/02/german-investment-fund-acquires-1-1-gw-of-italian-battery-projects/",
         "entry_added": "2025-01-06 12:30:26",
         "entry_last_updated": "2025-01-06 12:30:26"
+    },
+    {
+        "date": "2024/07/25",
+        "buyer": "TotalEnergies",
+        "seller": "RWE",
+        "target": "OranjeWind offshore wind farm",
+        "capacity": "795 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "50%",
+        "technology_type": "Other",
+        "url": "https://www.energyconnects.com/news/renewables/2024/july/totalenergies-acquires-a-stake-in-the-oranjewind-offshore-wind-farm-in-the-netherlands/",
+        "entry_added": "2025-01-10 10:12:03",
+        "entry_last_updated": "2025-01-10 10:12:03"
     },
     {
         "date": "2024/07/18",
@@ -2132,6 +2236,19 @@
         "entry_last_updated": "2025-01-07 03:56:41"
     },
     {
+        "date": "2022/06/15",
+        "buyer": "GE Energy Financial Services",
+        "seller": "Not found",
+        "target": "Continuum onshore wind farm",
+        "capacity": "148.5 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "49%",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.gevernova.com/news/press-releases/ge-acquires-49-percent-stake-in-continuum-onshore-wind-farm-support-of-energy-transition-india",
+        "entry_added": "2025-01-10 10:18:20",
+        "entry_last_updated": "2025-01-10 10:18:20"
+    },
+    {
         "date": "2022/06/13",
         "buyer": "French insurance Crédit Agricole Assurances and Energy Infrastructure Partners",
         "seller": "Not found",
@@ -2143,6 +2260,19 @@
         "url": "https://www.pv-tech.org/repsol-sells-25-stake-in-renewables-arm-to-fuel-growth-strategy/",
         "entry_added": "2025-01-06 16:15:29",
         "entry_last_updated": "2025-01-06 16:15:29"
+    },
+    {
+        "date": "2022/05/25",
+        "buyer": "TotalEnergies",
+        "seller": "Global Infrastructure Partners",
+        "target": "SunPower’s commercial and industrial rooftop solar unit",
+        "capacity": "Not found",
+        "acquisition_price": "US$1.6 billion",
+        "stake_percentage": "50%",
+        "technology_type": "Solar PV",
+        "url": "https://www.pv-tech.org/totalenergies-acquires-stake-in-clearway-energy-in-major-us-renewables-swap/",
+        "entry_added": "2025-01-10 10:14:56",
+        "entry_last_updated": "2025-01-10 10:14:56"
     },
     {
         "date": "2022/05/19",
