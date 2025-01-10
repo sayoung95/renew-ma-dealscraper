@@ -65,6 +65,19 @@
         "entry_last_updated": "2025-01-10 15:52:10"
     },
     {
+        "date": "2025/01/10",
+        "buyer": "Ameren Missouri",
+        "seller": "Ameren Missouri",
+        "target": "200 MW solar plant",
+        "capacity": "500 MW",
+        "acquisition_price": "$900 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://pv-magazine-usa.com/2025/01/10/missouri-solar-jumps-nearly-30-with-huck-finn-facility-coming-online/",
+        "entry_added": "2025-01-10 17:48:28",
+        "entry_last_updated": "2025-01-10 17:48:28"
+    },
+    {
         "date": "2025/01/09",
         "buyer": "LS Power",
         "seller": "Algonquin Power",
