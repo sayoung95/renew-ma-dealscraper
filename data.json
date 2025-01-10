@@ -91,6 +91,19 @@
         "entry_last_updated": "2025-01-10 10:27:01"
     },
     {
+        "date": "2025/01/08",
+        "buyer": "Exus Renewables",
+        "seller": "Lightsource bp",
+        "target": "ready-to-build Cibele solar farm",
+        "capacity": "130MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://www.pv-magazine.com/press-releases/exus-renewables-acquires-lightsource-bps-130mw-cibele-portuguese-solar-farm/",
+        "entry_added": "2025-01-10 10:36:18",
+        "entry_last_updated": "2025-01-10 10:36:18"
+    },
+    {
         "date": "2025/01/07",
         "buyer": "Shell",
         "seller": "Shell",
@@ -375,6 +388,19 @@
         "url": "https://www.globenewswire.com/news-release/2024/12/17/2998219/0/en/Copenhagen-Infrastructure-Partners-acquires-majority-stake-in-ABO-Energy-s-wind-and-hydrogen-project.html",
         "entry_added": "2025-01-10 10:29:36",
         "entry_last_updated": "2025-01-10 10:29:36"
+    },
+    {
+        "date": "2024/12/17",
+        "buyer": "Copenhagen Infrastructure Partners",
+        "seller": "ABO Energy",
+        "target": "Toqlukuti’k Wind & Hydrogen",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Onshore Wind",
+        "url": "https://financialpost.com/globe-newswire/copenhagen-infrastructure-partners-acquires-majority-stake-in-abo-energys-wind-and-hydrogen-project",
+        "entry_added": "2025-01-10 10:33:38",
+        "entry_last_updated": "2025-01-10 10:33:38"
     },
     {
         "date": "2024/12/08",
@@ -739,6 +765,19 @@
         "url": "https://solarquarter.com/2024/03/23/week-in-middleeast-masdar-acquires-50-stake-in-terra-gen-power-holdings-ii-llc-x-noor-secures-solar-pv-lease-agreement-with-john-crane-middle-east-fze-and-more/",
         "entry_added": "2025-01-06 14:05:00",
         "entry_last_updated": "2025-01-06 14:05:00"
+    },
+    {
+        "date": "2024/03/13",
+        "buyer": "Stonepeak",
+        "seller": "Ørsted",
+        "target": "four US onshore wind farms with a total capacity of 957 MW",
+        "capacity": "957 MW",
+        "acquisition_price": "USD 300 million",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://stonepeak.com/news/orsted-divests-share-of-four-us-onshore-wind-farms-to-stonepeak",
+        "entry_added": "2025-01-10 10:40:45",
+        "entry_last_updated": "2025-01-10 10:40:45"
     },
     {
         "date": "2024/03/12",
