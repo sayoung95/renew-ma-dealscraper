@@ -78,6 +78,19 @@
         "entry_last_updated": "2025-01-14 08:19:33"
     },
     {
+        "date": "2025/01/11",
+        "buyer": "NIRL will hold a 51% stake",
+        "seller": "Not found",
+        "target": "1000 MW solar power projects in Assam",
+        "capacity": "1000 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "51%",
+        "technology_type": "Solar PV",
+        "url": "https://economictimes.indiatimes.com/industry/renewables/nlc-india-arm-and-apdcl-to-develop-1000-mw-solar-projects-in-assam/articleshow/117145590.cms",
+        "entry_added": "2025-01-14 10:49:08",
+        "entry_last_updated": "2025-01-14 10:49:08"
+    },
+    {
         "date": "2025/01/10",
         "buyer": "Enel Green Power Development S.r.l",
         "seller": "Enel Green Power Development S.r.l",
@@ -115,6 +128,19 @@
         "url": "https://economictimes.indiatimes.com/industry/renewables/waaree-energies-acquires-egp-india-for-rs-792-crore/articleshow/117127143.cms",
         "entry_added": "2025-01-10 18:02:36",
         "entry_last_updated": "2025-01-10 18:02:36"
+    },
+    {
+        "date": "2025/01/10",
+        "buyer": "Pertamina New & Renewable Energy (Pertamina NRE)",
+        "seller": "Not found",
+        "target": "Citicore Renewable",
+        "capacity": "Not found",
+        "acquisition_price": "P6.7B",
+        "stake_percentage": "20%",
+        "technology_type": "Other",
+        "url": "https://insiderph.com/indonesian-state-power-firm-buys-20-stake-in-saavedras-citicore-renewable-for-p67b",
+        "entry_added": "2025-01-14 10:46:29",
+        "entry_last_updated": "2025-01-14 10:46:29"
     },
     {
         "date": "2025/01/09",
@@ -362,6 +388,19 @@
         "url": "https://stockanalysis.com/quote/cph/ORSTED/",
         "entry_added": "2025-01-05 17:24:15",
         "entry_last_updated": "2025-01-05 17:24:15"
+    },
+    {
+        "date": "2025/01/03",
+        "buyer": "D. E. Shaw Renewable Investments",
+        "seller": "Avantus",
+        "target": "888 MW Hybrid Solar Plus Storage Project",
+        "capacity": "888 MW",
+        "acquisition_price": "Not found",
+        "stake_percentage": "Not found",
+        "technology_type": "Solar PV",
+        "url": "https://mercomcapital.com/contourglobal-acquires-888-mw-hybrid-solar-plus-storage-project/",
+        "entry_added": "2025-01-14 10:52:07",
+        "entry_last_updated": "2025-01-14 10:52:07"
     },
     {
         "date": "2025/01/02",
