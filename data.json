@@ -663,6 +663,19 @@
         "entry_last_updated": "2025-01-07 11:14:21"
     },
     {
+        "date": "2024/09/25",
+        "buyer": "Masdar",
+        "seller": "Brookfield Renewable and its institutional partners",
+        "target": "745 MW of wind and solar assets in Spain and Portugal",
+        "capacity": "745 MW",
+        "acquisition_price": "$1.4 billion",
+        "stake_percentage": "Not found",
+        "technology_type": "Other",
+        "url": "https://solarquarter.com/2024/09/25/masdar-to-acquire-saeta-yield-in-1-4-billion-deal-expanding-presence-in-european-renewable-energy-market/",
+        "entry_added": "2025-01-14 08:06:09",
+        "entry_last_updated": "2025-01-14 08:06:09"
+    },
+    {
         "date": "2024/09/24",
         "buyer": "Macquarie Asset Management",
         "seller": "D. E. Shaw Renewable Investments",
@@ -2520,6 +2533,19 @@
         "url": "https://www.gevernova.com/news/press-releases/ge-acquires-49-percent-stake-in-continuum-onshore-wind-farm-support-of-energy-transition-india",
         "entry_added": "2025-01-10 10:18:20",
         "entry_last_updated": "2025-01-10 10:18:20"
+    },
+    {
+        "date": "2022/06/15",
+        "buyer": "bp",
+        "seller": "Not found",
+        "target": "Asian Renewable Energy Hub",
+        "capacity": "Not found",
+        "acquisition_price": "Not found",
+        "stake_percentage": "40.5%",
+        "technology_type": "Other",
+        "url": "https://www.bp.com/en/global/corporate/news-and-insights/press-releases/bp-to-lead-and-operate-one-of-the-worlds-largest-renewables-and-green-hydrogen-energy-hubs-based-in-western-australia.html",
+        "entry_added": "2025-01-14 08:02:10",
+        "entry_last_updated": "2025-01-14 08:02:10"
     },
     {
         "date": "2022/06/13",
